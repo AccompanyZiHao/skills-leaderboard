@@ -311,12 +311,14 @@ def format_installs(num: int) -> str:
 
 def format_installs_diff(num: int) -> str:
     """格式化安装量增量，带正负号"""
-    if num >= 1_000_000:
-        return f"+{num / 1_000_000:.1f}M" if num > 0 else f"{num / 1_000_000:.1f}M"
-    elif num >= 1_000:
-        return f"+{num / 1_000:.0f}K" if num > 0 else f"{num / 1_000:.0f}K"
+    sign = "+" if num > 0 else ""
+    abs_num = abs(num)
+    if abs_num >= 1_000_000:
+        return f"{sign}{num / 1_000_000:.1f}M"
+    elif abs_num >= 1_000:
+        return f"{sign}{num / 1_000:.0f}K"
     else:
-        return f"+{num}" if num > 0 else str(num)
+        return f"{sign}{num}"
 
 
 def generate_report(top30: list[dict], diff: dict, date_str: str) -> str:
@@ -335,10 +337,9 @@ def generate_report(top30: list[dict], diff: dict, date_str: str) -> str:
     lines.append("| 排名 | 变化 | 名称 | 来源 | 安装量 | 增量 |")
     lines.append("|------|------|------|------|--------|------|")
 
-    # 建立 id → rankChange 的映射，方便查找
+    # 建立 id → rankChange 的映射
     change_map = {rc["id"]: rc for rc in diff["rankChanges"]}
     new_ids = {e["name"] for e in diff["newEntries"]}
-    dropped_ids = {e["name"] for e in diff["dropped"]}
 
     for item in top30:
         # 判断状态
