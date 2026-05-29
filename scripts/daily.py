@@ -140,7 +140,7 @@ def parse_top_skills(all_skills: list[dict]) -> list[dict]:
     """
     从完整 skill 列表中提取 Top N，构建统一的数据结构
 
-    每条数据包含：rank, id, name, source, installs, weeklyInstalls, isOfficial, url
+    每条数据包含：rank, id, name, source, installs, weeklyInstalls, isOfficial, url, description
     """
     top30 = []
     for i, sk in enumerate(all_skills[:TOP_N]):
@@ -157,10 +157,53 @@ def parse_top_skills(all_skills: list[dict]) -> list[dict]:
             "weeklyInstalls": sk.get("weeklyInstalls", []),
             "isOfficial": sk.get("isOfficial", False),
             "url": f"https://skills.sh/{source}/{skill_id}",
+            "description": "",
         }
         top30.append(skill_data)
 
     print(f"构建 Top{TOP_N} 完成，共 {len(top30)} 条")
+    return top30
+
+
+def fetch_descriptions(top30: list[dict]) -> list[dict]:
+    """
+    并行请求每个 skill 的详情页，提取 description
+
+    详情页的 script 标签中嵌入了含 description 字段的 JSON 数据
+    """
+    import concurrent.futures
+
+    def fetch_one(skill: dict) -> str:
+        """请求单个 skill 详情页，返回描述文本"""
+        try:
+            resp = requests.get(skill["url"], headers=HEADERS, timeout=15)
+            if not resp.ok:
+                return ""
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            # 从 meta description 标签提取（最可靠）
+            meta = soup.find("meta", attrs={"name": "description"})
+            if meta and meta.get("content"):
+                desc = meta["content"].strip()
+                # 截断过长的描述，保留前 200 字符
+                if len(desc) > 200:
+                    desc = desc[:197] + "..."
+                return desc
+        except Exception:
+            pass
+        return ""
+
+    # 并行请求 30 个详情页
+    print("正在获取 Top30 的描述信息...")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        descriptions = list(executor.map(fetch_one, top30))
+
+    # 填充描述
+    for skill, desc in zip(top30, descriptions):
+        skill["description"] = desc
+
+    success_count = sum(1 for d in descriptions if d)
+    print(f"描述获取完成: {success_count}/{len(top30)} 成功")
     return top30
 
 
@@ -446,20 +489,23 @@ def main():
     if len(top30) < TOP_N:
         print(f"警告：只解析到 {len(top30)} 条数据，预期 {TOP_N} 条")
 
-    # 4. 加载昨天的快照并计算 diff
+    # 4. 获取每个 skill 的描述（并行请求详情页）
+    top30 = fetch_descriptions(top30)
+
+    # 5. 加载昨天的快照并计算 diff
     yesterday = load_yesterday_snapshot(date_str)
     diff = compute_diff(top30, yesterday)
 
-    # 5. 保存快照
+    # 6. 保存快照
     save_snapshot(top30, date_str)
 
-    # 6. 更新 latest.json
+    # 7. 更新 latest.json
     save_latest(top30, diff, date_str)
 
-    # 7. 更新日期索引
+    # 8. 更新日期索引
     update_dates(date_str)
 
-    # 8. 生成并保存日报
+    # 9. 生成并保存日报
     report = generate_report(top30, diff, date_str)
     save_report(report, date_str)
 

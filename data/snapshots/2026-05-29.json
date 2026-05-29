@@ -4,7 +4,7 @@
     "id": "vercel-labs/skills/find-skills",
     "name": "find-skills",
     "source": "vercel-labs/skills",
-    "installs": 1746871,
+    "installs": 1748303,
     "weeklyInstalls": [
       100113,
       116613,
@@ -16,14 +16,15 @@
       37369
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/vercel-labs/skills/find-skills"
+    "url": "https://skills.sh/vercel-labs/skills/find-skills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express…"
   },
   {
     "rank": 2,
     "id": "anthropics/skills/frontend-design",
     "name": "frontend-design",
     "source": "anthropics/skills",
-    "installs": 474054,
+    "installs": 474448,
     "weeklyInstalls": [
       33429,
       31868,
@@ -35,14 +36,15 @@
       9776
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/anthropics/skills/frontend-design"
+    "url": "https://skills.sh/anthropics/skills/frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts,…"
   },
   {
     "rank": 3,
     "id": "vercel-labs/agent-skills/vercel-react-best-practices",
     "name": "vercel-react-best-practices",
     "source": "vercel-labs/agent-skills",
-    "installs": 435012,
+    "installs": 435208,
     "weeklyInstalls": [
       24397,
       23125,
@@ -54,14 +56,15 @@
       5996
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices"
+    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js…"
   },
   {
     "rank": 4,
     "id": "microsoft/azure-skills/microsoft-foundry",
     "name": "microsoft-foundry",
     "source": "microsoft/azure-skills",
-    "installs": 352414,
+    "installs": 352578,
     "weeklyInstalls": [
       19672,
       21891,
@@ -73,14 +76,15 @@
       4260
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/microsoft-foundry"
+    "url": "https://skills.sh/microsoft/azure-skills/microsoft-foundry",
+    "description": "Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, continuous eval,…"
   },
   {
     "rank": 5,
     "id": "vercel-labs/agent-skills/web-design-guidelines",
     "name": "web-design-guidelines",
     "source": "vercel-labs/agent-skills",
-    "installs": 351028,
+    "installs": 351201,
     "weeklyInstalls": [
       19752,
       17487,
@@ -92,14 +96,15 @@
       5365
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines"
+    "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site…"
   },
   {
     "rank": 6,
     "id": "microsoft/azure-skills/azure-ai",
     "name": "azure-ai",
     "source": "microsoft/azure-skills",
-    "installs": 350676,
+    "installs": 350834,
     "weeklyInstalls": [
       20580,
       21758,
@@ -111,14 +116,15 @@
       2046
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-ai"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-ai",
+    "description": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR.…"
   },
   {
     "rank": 7,
     "id": "microsoft/azure-skills/azure-deploy",
     "name": "azure-deploy",
     "source": "microsoft/azure-skills",
-    "installs": 350304,
+    "installs": 350462,
     "weeklyInstalls": [
       20594,
       21772,
@@ -130,14 +136,15 @@
       4906
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-deploy"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-deploy",
+    "description": "Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/deployment-plan.md and infrastructure files. DO NOT use this skill when…"
   },
   {
     "rank": 8,
     "id": "microsoft/azure-skills/azure-diagnostics",
     "name": "azure-diagnostics",
     "source": "microsoft/azure-skills",
-    "installs": 350276,
+    "installs": 350435,
     "weeklyInstalls": [
       20573,
       21728,
@@ -149,14 +156,15 @@
       4918
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-diagnostics"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-diagnostics",
+    "description": "Debug Azure production issues on Azure using AppLens, Azure Monitor, resource health, and safe triage. WHEN: debug production issues, troubleshoot app service,…"
   },
   {
     "rank": 9,
     "id": "microsoft/azure-skills/azure-prepare",
     "name": "azure-prepare",
     "source": "microsoft/azure-skills",
-    "installs": 350196,
+    "installs": 350354,
     "weeklyInstalls": [
       20585,
       18960,
@@ -168,14 +176,15 @@
       2892
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-prepare"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-prepare",
+    "description": "Prepare Azure apps for deployment (infra Bicep/Terraform, azure.yaml, Dockerfiles). Use for create/modernize or create+deploy; not cross-cloud migration (use…"
   },
   {
     "rank": 10,
     "id": "microsoft/azure-skills/azure-storage",
     "name": "azure-storage",
     "source": "microsoft/azure-skills",
-    "installs": 349969,
+    "installs": 350128,
     "weeklyInstalls": [
       19434,
       21710,
@@ -187,14 +196,15 @@
       5007
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-storage"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-storage",
+    "description": "Azure Storage Services including Blob Storage, File Shares, Queue Storage, Table Storage, and Data Lake. Answers questions about storage access tiers (hot,…"
   },
   {
     "rank": 11,
     "id": "microsoft/azure-skills/appinsights-instrumentation",
     "name": "appinsights-instrumentation",
     "source": "microsoft/azure-skills",
-    "installs": 349650,
+    "installs": 349806,
     "weeklyInstalls": [
       20564,
       21709,
@@ -206,14 +216,15 @@
       2046
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/appinsights-instrumentation"
+    "url": "https://skills.sh/microsoft/azure-skills/appinsights-instrumentation",
+    "description": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to…"
   },
   {
     "rank": 12,
     "id": "microsoft/azure-skills/azure-validate",
     "name": "azure-validate",
     "source": "microsoft/azure-skills",
-    "installs": 349643,
+    "installs": 349802,
     "weeklyInstalls": [
       20575,
       21638,
@@ -225,14 +236,15 @@
       5001
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-validate"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-validate",
+    "description": "Pre-deployment validation for Azure readiness. Run deep checks on configuration, infrastructure (Bicep or Terraform), RBAC role assignments, managed identity…"
   },
   {
     "rank": 13,
     "id": "microsoft/azure-skills/entra-app-registration",
     "name": "entra-app-registration",
     "source": "microsoft/azure-skills",
-    "installs": 349598,
+    "installs": 349755,
     "weeklyInstalls": [
       20564,
       21736,
@@ -244,14 +256,15 @@
       7010
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/entra-app-registration"
+    "url": "https://skills.sh/microsoft/azure-skills/entra-app-registration",
+    "description": "Guides Microsoft Entra ID app registration, OAuth 2.0 authentication, and MSAL integration. USE FOR: create app registration, register Azure AD app, configure…"
   },
   {
     "rank": 14,
     "id": "microsoft/azure-skills/azure-compliance",
     "name": "azure-compliance",
     "source": "microsoft/azure-skills",
-    "installs": 349533,
+    "installs": 349689,
     "weeklyInstalls": [
       20563,
       21710,
@@ -263,14 +276,15 @@
       2043
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-compliance"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
+    "description": "Run Azure compliance and security audits with azqr plus Key Vault expiration checks. Covers best-practice assessment, resource review, policy/compliance…"
   },
   {
     "rank": 15,
     "id": "microsoft/azure-skills/azure-rbac",
     "name": "azure-rbac",
     "source": "microsoft/azure-skills",
-    "installs": 349510,
+    "installs": 349667,
     "weeklyInstalls": [
       19433,
       21712,
@@ -282,14 +296,15 @@
       2888
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-rbac"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-rbac",
+    "description": "Helps users find the right Azure RBAC role for an identity with least privilege access, then generate CLI commands and Bicep code to assign it. Also provides…"
   },
   {
     "rank": 16,
     "id": "microsoft/azure-skills/azure-resource-lookup",
     "name": "azure-resource-lookup",
     "source": "microsoft/azure-skills",
-    "installs": 349494,
+    "installs": 349651,
     "weeklyInstalls": [
       19436,
       21702,
@@ -301,14 +316,15 @@
       2887
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-lookup"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-lookup",
+    "description": "List, find, and show Azure resources across subscriptions or resource groups. Handles prompts like \\\"list the websites in my subscription\\\", \\\"list my web…"
   },
   {
     "rank": 17,
     "id": "microsoft/azure-skills/azure-aigateway",
     "name": "azure-aigateway",
     "source": "microsoft/azure-skills",
-    "installs": 349441,
+    "installs": 349597,
     "weeklyInstalls": [
       20552,
       21705,
@@ -320,14 +336,15 @@
       2041
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-aigateway"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-aigateway",
+    "description": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety, load balancing, AI…"
   },
   {
     "rank": 18,
     "id": "microsoft/azure-skills/azure-resource-visualizer",
     "name": "azure-resource-visualizer",
     "source": "microsoft/azure-skills",
-    "installs": 349439,
+    "installs": 349596,
     "weeklyInstalls": [
       19427,
       21708,
@@ -339,14 +356,15 @@
       3639
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-visualizer"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-visualizer",
+    "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. WHEN: create…"
   },
   {
     "rank": 19,
     "id": "microsoft/azure-skills/azure-kusto",
     "name": "azure-kusto",
     "source": "microsoft/azure-skills",
-    "installs": 349399,
+    "installs": 349556,
     "weeklyInstalls": [
       20548,
       21703,
@@ -358,14 +376,15 @@
       4889
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-kusto"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-kusto",
+    "description": "Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. WHEN: KQL queries, Kusto database…"
   },
   {
     "rank": 20,
     "id": "microsoft/azure-skills/azure-messaging",
     "name": "azure-messaging",
     "source": "microsoft/azure-skills",
-    "installs": 339211,
+    "installs": 339367,
     "weeklyInstalls": [
       20446,
       21616,
@@ -377,14 +396,15 @@
       2885
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-messaging"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-messaging",
+    "description": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing…"
   },
   {
     "rank": 21,
     "id": "remotion-dev/skills/remotion-best-practices",
     "name": "remotion-best-practices",
     "source": "remotion-dev/skills",
-    "installs": 335986,
+    "installs": 336127,
     "weeklyInstalls": [
       22717,
       22668,
@@ -396,14 +416,15 @@
       2488
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/remotion-dev/skills/remotion-best-practices"
+    "url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
+    "description": "Best practices for Remotion - Video creation in React"
   },
   {
     "rank": 22,
     "id": "microsoft/azure-skills/azure-hosted-copilot-sdk",
     "name": "azure-hosted-copilot-sdk",
     "source": "microsoft/azure-skills",
-    "installs": 322634,
+    "installs": 322790,
     "weeklyInstalls": [
       20241,
       21470,
@@ -415,14 +436,15 @@
       4874
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk",
+    "description": "Build, deploy, and modify GitHub Copilot SDK apps on Azure. MANDATORY when codebase contains @github/copilot-sdk or CopilotClient in package.json. PREFER OVER…"
   },
   {
     "rank": 23,
     "id": "vercel-labs/agent-browser/agent-browser",
     "name": "agent-browser",
     "source": "vercel-labs/agent-browser",
-    "installs": 322023,
+    "installs": 322246,
     "weeklyInstalls": [
       18538,
       18622,
@@ -434,14 +456,15 @@
       2180
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser"
+    "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
+    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…"
   },
   {
     "rank": 24,
     "id": "microsoft/azure-skills/azure-compute",
     "name": "azure-compute",
     "source": "microsoft/azure-skills",
-    "installs": 293453,
+    "installs": 293610,
     "weeklyInstalls": [
       19885,
       21185,
@@ -453,14 +476,15 @@
       3854
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-compute"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-compute",
+    "description": "Azure VM and VMSS router for recommendations, pricing, autoscale, orchestration, connectivity troubleshooting, capacity reservations, and Essential Machine…"
   },
   {
     "rank": 25,
     "id": "microsoft/azure-skills/azure-cloud-migrate",
     "name": "azure-cloud-migrate",
     "source": "microsoft/azure-skills",
-    "installs": 283652,
+    "installs": 283807,
     "weeklyInstalls": [
       19750,
       21056,
@@ -472,14 +496,15 @@
       2022
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-cloud-migrate"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-cloud-migrate",
+    "description": "Assess and migrate cross-cloud workloads to Azure with reports and code conversion. Supports Lambda→Functions, Beanstalk/Heroku/App Engine→App Service,…"
   },
   {
     "rank": 26,
     "id": "anthropics/skills/skill-creator",
     "name": "skill-creator",
     "source": "anthropics/skills",
-    "installs": 239531,
+    "installs": 239749,
     "weeklyInstalls": [
       15035,
       13162,
@@ -491,14 +516,15 @@
       3160
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/anthropics/skills/skill-creator"
+    "url": "https://skills.sh/anthropics/skills/skill-creator",
+    "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an…"
   },
   {
     "rank": 27,
     "id": "mattpocock/skills/grill-me",
     "name": "grill-me",
     "source": "mattpocock/skills",
-    "installs": 228040,
+    "installs": 228555,
     "weeklyInstalls": [
       5094,
       5366,
@@ -510,14 +536,15 @@
       15467
     ],
     "isOfficial": false,
-    "url": "https://skills.sh/mattpocock/skills/grill-me"
+    "url": "https://skills.sh/mattpocock/skills/grill-me",
+    "description": "Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to…"
   },
   {
     "rank": 28,
     "id": "microsoft/azure-skills/azure-quotas",
     "name": "azure-quotas",
     "source": "microsoft/azure-skills",
-    "installs": 220561,
+    "installs": 220717,
     "weeklyInstalls": [
       17364,
       20545,
@@ -529,14 +556,15 @@
       2831
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-quotas"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-quotas",
+    "description": "Check/manage Azure quotas and usage across providers. For deployment planning, capacity validation, region selection. WHEN: \\\"check quotas\\\", \\\"service…"
   },
   {
     "rank": 29,
     "id": "microsoft/azure-skills/azure-upgrade",
     "name": "azure-upgrade",
     "source": "microsoft/azure-skills",
-    "installs": 213081,
+    "installs": 213237,
     "weeklyInstalls": [
       16476,
       20523,
@@ -548,14 +576,15 @@
       4903
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-upgrade"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-upgrade",
+    "description": "Assess and upgrade Azure workloads between plans, tiers, or SKUs, or modernize Azure SDK dependencies in source code. WHEN: upgrade Consumption to Flex…"
   },
   {
     "rank": 30,
     "id": "microsoft/azure-skills/azure-cost-optimization",
     "name": "azure-cost-optimization",
     "source": "microsoft/azure-skills",
-    "installs": 206495,
+    "installs": 206498,
     "weeklyInstalls": [
       16473,
       6337,
@@ -567,6 +596,7 @@
       172
     ],
     "isOfficial": true,
-    "url": "https://skills.sh/microsoft/azure-skills/azure-cost-optimization"
+    "url": "https://skills.sh/microsoft/azure-skills/azure-cost-optimization",
+    "description": "Identify Azure cost savings from usage and spending data. USE FOR: optimize Azure costs, reduce Azure spending/expenses, analyze Azure costs, find cost…"
   }
 ]
