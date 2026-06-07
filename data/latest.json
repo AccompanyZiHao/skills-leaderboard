@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "top30": [
     {
       "rank": 1,
       "id": "vercel-labs/skills/find-skills",
       "name": "find-skills",
       "source": "vercel-labs/skills",
-      "installs": 1876414,
+      "installs": 1889242,
       "weeklyInstalls": [
         116613,
         115950,
@@ -26,7 +26,7 @@
       "id": "anthropics/skills/frontend-design",
       "name": "frontend-design",
       "source": "anthropics/skills",
-      "installs": 506805,
+      "installs": 510166,
       "weeklyInstalls": [
         31868,
         30494,
@@ -46,7 +46,7 @@
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
-      "installs": 453950,
+      "installs": 455822,
       "weeklyInstalls": [
         23125,
         22614,
@@ -66,7 +66,7 @@
       "id": "vercel-labs/agent-browser/agent-browser",
       "name": "agent-browser",
       "source": "vercel-labs/agent-browser",
-      "installs": 421709,
+      "installs": 424018,
       "weeklyInstalls": [
         31953,
         18275,
@@ -86,7 +86,7 @@
       "id": "microsoft/azure-skills/microsoft-foundry",
       "name": "microsoft-foundry",
       "source": "microsoft/azure-skills",
-      "installs": 373280,
+      "installs": 374288,
       "weeklyInstalls": [
         21891,
         21736,
@@ -106,7 +106,7 @@
       "id": "microsoft/azure-skills/azure-ai",
       "name": "azure-ai",
       "source": "microsoft/azure-skills",
-      "installs": 371091,
+      "installs": 372071,
       "weeklyInstalls": [
         21758,
         21574,
@@ -126,7 +126,7 @@
       "id": "microsoft/azure-skills/azure-deploy",
       "name": "azure-deploy",
       "source": "microsoft/azure-skills",
-      "installs": 370745,
+      "installs": 371731,
       "weeklyInstalls": [
         21772,
         21565,
@@ -146,7 +146,7 @@
       "id": "microsoft/azure-skills/azure-diagnostics",
       "name": "azure-diagnostics",
       "source": "microsoft/azure-skills",
-      "installs": 370697,
+      "installs": 371681,
       "weeklyInstalls": [
         21728,
         21541,
@@ -166,7 +166,7 @@
       "id": "microsoft/azure-skills/azure-prepare",
       "name": "azure-prepare",
       "source": "microsoft/azure-skills",
-      "installs": 370654,
+      "installs": 371637,
       "weeklyInstalls": [
         21745,
         21554,
@@ -186,7 +186,7 @@
       "id": "microsoft/azure-skills/azure-storage",
       "name": "azure-storage",
       "source": "microsoft/azure-skills",
-      "installs": 370378,
+      "installs": 371360,
       "weeklyInstalls": [
         21710,
         21521,
@@ -206,7 +206,7 @@
       "id": "microsoft/azure-skills/azure-validate",
       "name": "azure-validate",
       "source": "microsoft/azure-skills",
-      "installs": 370046,
+      "installs": 371027,
       "weeklyInstalls": [
         21726,
         21541,
@@ -226,7 +226,7 @@
       "id": "microsoft/azure-skills/entra-app-registration",
       "name": "entra-app-registration",
       "source": "microsoft/azure-skills",
-      "installs": 369959,
+      "installs": 370943,
       "weeklyInstalls": [
         21736,
         21529,
@@ -246,7 +246,7 @@
       "id": "microsoft/azure-skills/appinsights-instrumentation",
       "name": "appinsights-instrumentation",
       "source": "microsoft/azure-skills",
-      "installs": 369951,
+      "installs": 370927,
       "weeklyInstalls": [
         21709,
         21515,
@@ -266,7 +266,7 @@
       "id": "microsoft/azure-skills/azure-resource-lookup",
       "name": "azure-resource-lookup",
       "source": "microsoft/azure-skills",
-      "installs": 369887,
+      "installs": 370869,
       "weeklyInstalls": [
         21702,
         21496,
@@ -286,7 +286,7 @@
       "id": "microsoft/azure-skills/azure-compliance",
       "name": "azure-compliance",
       "source": "microsoft/azure-skills",
-      "installs": 369880,
+      "installs": 370863,
       "weeklyInstalls": [
         21710,
         21512,
@@ -306,7 +306,7 @@
       "id": "microsoft/azure-skills/azure-rbac",
       "name": "azure-rbac",
       "source": "microsoft/azure-skills",
-      "installs": 369864,
+      "installs": 370845,
       "weeklyInstalls": [
         21712,
         21516,
@@ -326,7 +326,7 @@
       "id": "microsoft/azure-skills/azure-aigateway",
       "name": "azure-aigateway",
       "source": "microsoft/azure-skills",
-      "installs": 369792,
+      "installs": 370773,
       "weeklyInstalls": [
         21705,
         21514,
@@ -343,30 +343,10 @@
     },
     {
       "rank": 18,
-      "id": "microsoft/azure-skills/azure-resource-visualizer",
-      "name": "azure-resource-visualizer",
-      "source": "microsoft/azure-skills",
-      "installs": 369742,
-      "weeklyInstalls": [
-        21708,
-        21508,
-        22217,
-        20732,
-        21266,
-        20316,
-        18379,
-        14712
-      ],
-      "isOfficial": true,
-      "url": "https://skills.sh/microsoft/azure-skills/azure-resource-visualizer",
-      "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. WHEN: create…"
-    },
-    {
-      "rank": 19,
       "id": "microsoft/azure-skills/azure-kusto",
       "name": "azure-kusto",
       "source": "microsoft/azure-skills",
-      "installs": 369742,
+      "installs": 370724,
       "weeklyInstalls": [
         21703,
         21507,
@@ -382,11 +362,31 @@
       "description": "Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. WHEN: KQL queries, Kusto database…"
     },
     {
+      "rank": 19,
+      "id": "microsoft/azure-skills/azure-resource-visualizer",
+      "name": "azure-resource-visualizer",
+      "source": "microsoft/azure-skills",
+      "installs": 370715,
+      "weeklyInstalls": [
+        21708,
+        21508,
+        22217,
+        20732,
+        21266,
+        20316,
+        18379,
+        14712
+      ],
+      "isOfficial": true,
+      "url": "https://skills.sh/microsoft/azure-skills/azure-resource-visualizer",
+      "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. WHEN: create…"
+    },
+    {
       "rank": 20,
       "id": "vercel-labs/agent-skills/web-design-guidelines",
       "name": "web-design-guidelines",
       "source": "vercel-labs/agent-skills",
-      "installs": 368517,
+      "installs": 370379,
       "weeklyInstalls": [
         17487,
         16786,
@@ -406,7 +406,7 @@
       "id": "microsoft/azure-skills/azure-messaging",
       "name": "azure-messaging",
       "source": "microsoft/azure-skills",
-      "installs": 359543,
+      "installs": 360525,
       "weeklyInstalls": [
         21616,
         21440,
@@ -426,7 +426,7 @@
       "id": "remotion-dev/skills/remotion-best-practices",
       "name": "remotion-best-practices",
       "source": "remotion-dev/skills",
-      "installs": 351223,
+      "installs": 352919,
       "weeklyInstalls": [
         22668,
         20250,
@@ -446,7 +446,7 @@
       "id": "microsoft/azure-skills/azure-hosted-copilot-sdk",
       "name": "azure-hosted-copilot-sdk",
       "source": "microsoft/azure-skills",
-      "installs": 342932,
+      "installs": 343912,
       "weeklyInstalls": [
         21470,
         21300,
@@ -466,7 +466,7 @@
       "id": "microsoft/azure-skills/azure-compute",
       "name": "azure-compute",
       "source": "microsoft/azure-skills",
-      "installs": 313732,
+      "installs": 314712,
       "weeklyInstalls": [
         21185,
         21098,
@@ -486,7 +486,7 @@
       "id": "microsoft/azure-skills/azure-cloud-migrate",
       "name": "azure-cloud-migrate",
       "source": "microsoft/azure-skills",
-      "installs": 303856,
+      "installs": 304835,
       "weeklyInstalls": [
         21056,
         20981,
@@ -506,7 +506,7 @@
       "id": "mattpocock/skills/grill-me",
       "name": "grill-me",
       "source": "mattpocock/skills",
-      "installs": 267016,
+      "installs": 270502,
       "weeklyInstalls": [
         5366,
         6220,
@@ -526,7 +526,7 @@
       "id": "anthropics/skills/skill-creator",
       "name": "skill-creator",
       "source": "anthropics/skills",
-      "installs": 254537,
+      "installs": 255806,
       "weeklyInstalls": [
         13162,
         13062,
@@ -546,7 +546,7 @@
       "id": "microsoft/azure-skills/azure-quotas",
       "name": "azure-quotas",
       "source": "microsoft/azure-skills",
-      "installs": 240696,
+      "installs": 241669,
       "weeklyInstalls": [
         20545,
         20607,
@@ -566,7 +566,7 @@
       "id": "microsoft/azure-skills/azure-upgrade",
       "name": "azure-upgrade",
       "source": "microsoft/azure-skills",
-      "installs": 233202,
+      "installs": 234173,
       "weeklyInstalls": [
         20523,
         20579,
@@ -586,7 +586,7 @@
       "id": "mattpocock/skills/improve-codebase-architecture",
       "name": "improve-codebase-architecture",
       "source": "mattpocock/skills",
-      "installs": 216984,
+      "installs": 219947,
       "weeklyInstalls": [
         1847,
         1991,
@@ -603,252 +603,38 @@
     }
   ],
   "diff": {
-    "newEntries": [
-      {
-        "name": "improve-codebase-architecture",
-        "source": "mattpocock/skills",
-        "rank": 30,
-        "installs": 216984
-      }
-    ],
-    "dropped": [
-      {
-        "name": "caveman",
-        "source": "juliusbrussee/caveman",
-        "yesterdayRank": 30,
-        "yesterdayInstalls": 213048
-      }
-    ],
+    "newEntries": [],
+    "dropped": [],
     "rankChanges": [
-      {
-        "id": "microsoft/azure-skills/appinsights-instrumentation",
-        "name": "appinsights-instrumentation",
-        "source": "microsoft/azure-skills",
-        "yesterday": 12,
-        "today": 13,
-        "change": -1,
-        "installsDiff": 2467,
-        "todayInstalls": 369951
-      },
-      {
-        "id": "microsoft/azure-skills/entra-app-registration",
-        "name": "entra-app-registration",
-        "source": "microsoft/azure-skills",
-        "yesterday": 13,
-        "today": 12,
-        "change": 1,
-        "installsDiff": 2478,
-        "todayInstalls": 369959
-      },
-      {
-        "id": "anthropics/skills/frontend-design",
-        "name": "frontend-design",
-        "source": "anthropics/skills",
-        "yesterday": 2,
-        "today": 2,
-        "change": 0,
-        "installsDiff": 3861,
-        "todayInstalls": 506805
-      },
-      {
-        "id": "microsoft/azure-skills/azure-resource-lookup",
-        "name": "azure-resource-lookup",
-        "source": "microsoft/azure-skills",
-        "yesterday": 14,
-        "today": 14,
-        "change": 0,
-        "installsDiff": 2472,
-        "todayInstalls": 369887
-      },
-      {
-        "id": "microsoft/azure-skills/azure-compliance",
-        "name": "azure-compliance",
-        "source": "microsoft/azure-skills",
-        "yesterday": 15,
-        "today": 15,
-        "change": 0,
-        "installsDiff": 2471,
-        "todayInstalls": 369880
-      },
-      {
-        "id": "microsoft/azure-skills/azure-ai",
-        "name": "azure-ai",
-        "source": "microsoft/azure-skills",
-        "yesterday": 6,
-        "today": 6,
-        "change": 0,
-        "installsDiff": 2479,
-        "todayInstalls": 371091
-      },
-      {
-        "id": "microsoft/azure-skills/azure-compute",
-        "name": "azure-compute",
-        "source": "microsoft/azure-skills",
-        "yesterday": 24,
-        "today": 24,
-        "change": 0,
-        "installsDiff": 2462,
-        "todayInstalls": 313732
-      },
-      {
-        "id": "anthropics/skills/skill-creator",
-        "name": "skill-creator",
-        "source": "anthropics/skills",
-        "yesterday": 27,
-        "today": 27,
-        "change": 0,
-        "installsDiff": 1597,
-        "todayInstalls": 254537
-      },
-      {
-        "id": "microsoft/azure-skills/azure-cloud-migrate",
-        "name": "azure-cloud-migrate",
-        "source": "microsoft/azure-skills",
-        "yesterday": 25,
-        "today": 25,
-        "change": 0,
-        "installsDiff": 2453,
-        "todayInstalls": 303856
-      },
-      {
-        "id": "microsoft/azure-skills/azure-hosted-copilot-sdk",
-        "name": "azure-hosted-copilot-sdk",
-        "source": "microsoft/azure-skills",
-        "yesterday": 23,
-        "today": 23,
-        "change": 0,
-        "installsDiff": 2464,
-        "todayInstalls": 342932
-      },
-      {
-        "id": "microsoft/azure-skills/azure-storage",
-        "name": "azure-storage",
-        "source": "microsoft/azure-skills",
-        "yesterday": 10,
-        "today": 10,
-        "change": 0,
-        "installsDiff": 2478,
-        "todayInstalls": 370378
-      },
       {
         "id": "microsoft/azure-skills/azure-kusto",
         "name": "azure-kusto",
         "source": "microsoft/azure-skills",
         "yesterday": 19,
-        "today": 19,
-        "change": 0,
-        "installsDiff": 2470,
-        "todayInstalls": 369742
-      },
-      {
-        "id": "remotion-dev/skills/remotion-best-practices",
-        "name": "remotion-best-practices",
-        "source": "remotion-dev/skills",
-        "yesterday": 22,
-        "today": 22,
-        "change": 0,
-        "installsDiff": 1709,
-        "todayInstalls": 351223
-      },
-      {
-        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
-        "name": "vercel-react-best-practices",
-        "source": "vercel-labs/agent-skills",
-        "yesterday": 3,
-        "today": 3,
-        "change": 0,
-        "installsDiff": 2211,
-        "todayInstalls": 453950
-      },
-      {
-        "id": "vercel-labs/agent-browser/agent-browser",
-        "name": "agent-browser",
-        "source": "vercel-labs/agent-browser",
-        "yesterday": 4,
-        "today": 4,
-        "change": 0,
-        "installsDiff": 3290,
-        "todayInstalls": 421709
-      },
-      {
-        "id": "microsoft/azure-skills/azure-aigateway",
-        "name": "azure-aigateway",
-        "source": "microsoft/azure-skills",
-        "yesterday": 17,
-        "today": 17,
-        "change": 0,
-        "installsDiff": 2474,
-        "todayInstalls": 369792
-      },
-      {
-        "id": "microsoft/azure-skills/azure-upgrade",
-        "name": "azure-upgrade",
-        "source": "microsoft/azure-skills",
-        "yesterday": 29,
-        "today": 29,
-        "change": 0,
-        "installsDiff": 2440,
-        "todayInstalls": 233202
-      },
-      {
-        "id": "microsoft/azure-skills/azure-messaging",
-        "name": "azure-messaging",
-        "source": "microsoft/azure-skills",
-        "yesterday": 21,
-        "today": 21,
-        "change": 0,
-        "installsDiff": 2472,
-        "todayInstalls": 359543
-      },
-      {
-        "id": "mattpocock/skills/grill-me",
-        "name": "grill-me",
-        "source": "mattpocock/skills",
-        "yesterday": 26,
-        "today": 26,
-        "change": 0,
-        "installsDiff": 4744,
-        "todayInstalls": 267016
-      },
-      {
-        "id": "microsoft/azure-skills/azure-rbac",
-        "name": "azure-rbac",
-        "source": "microsoft/azure-skills",
-        "yesterday": 16,
-        "today": 16,
-        "change": 0,
-        "installsDiff": 2471,
-        "todayInstalls": 369864
+        "today": 18,
+        "change": 1,
+        "installsDiff": 982,
+        "todayInstalls": 370724
       },
       {
         "id": "microsoft/azure-skills/azure-resource-visualizer",
         "name": "azure-resource-visualizer",
         "source": "microsoft/azure-skills",
         "yesterday": 18,
-        "today": 18,
-        "change": 0,
-        "installsDiff": 2464,
-        "todayInstalls": 369742
+        "today": 19,
+        "change": -1,
+        "installsDiff": 973,
+        "todayInstalls": 370715
       },
       {
-        "id": "microsoft/azure-skills/azure-validate",
-        "name": "azure-validate",
-        "source": "microsoft/azure-skills",
-        "yesterday": 11,
-        "today": 11,
+        "id": "mattpocock/skills/improve-codebase-architecture",
+        "name": "improve-codebase-architecture",
+        "source": "mattpocock/skills",
+        "yesterday": 30,
+        "today": 30,
         "change": 0,
-        "installsDiff": 2476,
-        "todayInstalls": 370046
-      },
-      {
-        "id": "vercel-labs/agent-skills/web-design-guidelines",
-        "name": "web-design-guidelines",
-        "source": "vercel-labs/agent-skills",
-        "yesterday": 20,
-        "today": 20,
-        "change": 0,
-        "installsDiff": 2072,
-        "todayInstalls": 368517
+        "installsDiff": 2963,
+        "todayInstalls": 219947
       },
       {
         "id": "microsoft/azure-skills/microsoft-foundry",
@@ -857,28 +643,38 @@
         "yesterday": 5,
         "today": 5,
         "change": 0,
-        "installsDiff": 2518,
-        "todayInstalls": 373280
+        "installsDiff": 1008,
+        "todayInstalls": 374288
       },
       {
-        "id": "microsoft/azure-skills/azure-quotas",
-        "name": "azure-quotas",
+        "id": "microsoft/azure-skills/azure-compliance",
+        "name": "azure-compliance",
         "source": "microsoft/azure-skills",
-        "yesterday": 28,
-        "today": 28,
+        "yesterday": 15,
+        "today": 15,
         "change": 0,
-        "installsDiff": 2446,
-        "todayInstalls": 240696
+        "installsDiff": 983,
+        "todayInstalls": 370863
       },
       {
-        "id": "microsoft/azure-skills/azure-deploy",
-        "name": "azure-deploy",
+        "id": "microsoft/azure-skills/azure-cloud-migrate",
+        "name": "azure-cloud-migrate",
         "source": "microsoft/azure-skills",
-        "yesterday": 7,
-        "today": 7,
+        "yesterday": 25,
+        "today": 25,
         "change": 0,
-        "installsDiff": 2483,
-        "todayInstalls": 370745
+        "installsDiff": 979,
+        "todayInstalls": 304835
+      },
+      {
+        "id": "microsoft/azure-skills/azure-hosted-copilot-sdk",
+        "name": "azure-hosted-copilot-sdk",
+        "source": "microsoft/azure-skills",
+        "yesterday": 23,
+        "today": 23,
+        "change": 0,
+        "installsDiff": 980,
+        "todayInstalls": 343912
       },
       {
         "id": "microsoft/azure-skills/azure-diagnostics",
@@ -887,18 +683,48 @@
         "yesterday": 8,
         "today": 8,
         "change": 0,
-        "installsDiff": 2480,
-        "todayInstalls": 370697
+        "installsDiff": 984,
+        "todayInstalls": 371681
       },
       {
-        "id": "vercel-labs/skills/find-skills",
-        "name": "find-skills",
-        "source": "vercel-labs/skills",
-        "yesterday": 1,
-        "today": 1,
+        "id": "microsoft/azure-skills/azure-upgrade",
+        "name": "azure-upgrade",
+        "source": "microsoft/azure-skills",
+        "yesterday": 29,
+        "today": 29,
         "change": 0,
-        "installsDiff": 15493,
-        "todayInstalls": 1876414
+        "installsDiff": 971,
+        "todayInstalls": 234173
+      },
+      {
+        "id": "microsoft/azure-skills/azure-aigateway",
+        "name": "azure-aigateway",
+        "source": "microsoft/azure-skills",
+        "yesterday": 17,
+        "today": 17,
+        "change": 0,
+        "installsDiff": 981,
+        "todayInstalls": 370773
+      },
+      {
+        "id": "anthropics/skills/frontend-design",
+        "name": "frontend-design",
+        "source": "anthropics/skills",
+        "yesterday": 2,
+        "today": 2,
+        "change": 0,
+        "installsDiff": 3361,
+        "todayInstalls": 510166
+      },
+      {
+        "id": "vercel-labs/agent-skills/web-design-guidelines",
+        "name": "web-design-guidelines",
+        "source": "vercel-labs/agent-skills",
+        "yesterday": 20,
+        "today": 20,
+        "change": 0,
+        "installsDiff": 1862,
+        "todayInstalls": 370379
       },
       {
         "id": "microsoft/azure-skills/azure-prepare",
@@ -907,8 +733,178 @@
         "yesterday": 9,
         "today": 9,
         "change": 0,
-        "installsDiff": 2480,
-        "todayInstalls": 370654
+        "installsDiff": 983,
+        "todayInstalls": 371637
+      },
+      {
+        "id": "microsoft/azure-skills/appinsights-instrumentation",
+        "name": "appinsights-instrumentation",
+        "source": "microsoft/azure-skills",
+        "yesterday": 13,
+        "today": 13,
+        "change": 0,
+        "installsDiff": 976,
+        "todayInstalls": 370927
+      },
+      {
+        "id": "microsoft/azure-skills/azure-ai",
+        "name": "azure-ai",
+        "source": "microsoft/azure-skills",
+        "yesterday": 6,
+        "today": 6,
+        "change": 0,
+        "installsDiff": 980,
+        "todayInstalls": 372071
+      },
+      {
+        "id": "vercel-labs/skills/find-skills",
+        "name": "find-skills",
+        "source": "vercel-labs/skills",
+        "yesterday": 1,
+        "today": 1,
+        "change": 0,
+        "installsDiff": 12828,
+        "todayInstalls": 1889242
+      },
+      {
+        "id": "microsoft/azure-skills/azure-quotas",
+        "name": "azure-quotas",
+        "source": "microsoft/azure-skills",
+        "yesterday": 28,
+        "today": 28,
+        "change": 0,
+        "installsDiff": 973,
+        "todayInstalls": 241669
+      },
+      {
+        "id": "mattpocock/skills/grill-me",
+        "name": "grill-me",
+        "source": "mattpocock/skills",
+        "yesterday": 26,
+        "today": 26,
+        "change": 0,
+        "installsDiff": 3486,
+        "todayInstalls": 270502
+      },
+      {
+        "id": "microsoft/azure-skills/azure-compute",
+        "name": "azure-compute",
+        "source": "microsoft/azure-skills",
+        "yesterday": 24,
+        "today": 24,
+        "change": 0,
+        "installsDiff": 980,
+        "todayInstalls": 314712
+      },
+      {
+        "id": "microsoft/azure-skills/azure-deploy",
+        "name": "azure-deploy",
+        "source": "microsoft/azure-skills",
+        "yesterday": 7,
+        "today": 7,
+        "change": 0,
+        "installsDiff": 986,
+        "todayInstalls": 371731
+      },
+      {
+        "id": "microsoft/azure-skills/azure-validate",
+        "name": "azure-validate",
+        "source": "microsoft/azure-skills",
+        "yesterday": 11,
+        "today": 11,
+        "change": 0,
+        "installsDiff": 981,
+        "todayInstalls": 371027
+      },
+      {
+        "id": "microsoft/azure-skills/azure-resource-lookup",
+        "name": "azure-resource-lookup",
+        "source": "microsoft/azure-skills",
+        "yesterday": 14,
+        "today": 14,
+        "change": 0,
+        "installsDiff": 982,
+        "todayInstalls": 370869
+      },
+      {
+        "id": "microsoft/azure-skills/azure-rbac",
+        "name": "azure-rbac",
+        "source": "microsoft/azure-skills",
+        "yesterday": 16,
+        "today": 16,
+        "change": 0,
+        "installsDiff": 981,
+        "todayInstalls": 370845
+      },
+      {
+        "id": "microsoft/azure-skills/azure-messaging",
+        "name": "azure-messaging",
+        "source": "microsoft/azure-skills",
+        "yesterday": 21,
+        "today": 21,
+        "change": 0,
+        "installsDiff": 982,
+        "todayInstalls": 360525
+      },
+      {
+        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+        "name": "vercel-react-best-practices",
+        "source": "vercel-labs/agent-skills",
+        "yesterday": 3,
+        "today": 3,
+        "change": 0,
+        "installsDiff": 1872,
+        "todayInstalls": 455822
+      },
+      {
+        "id": "microsoft/azure-skills/azure-storage",
+        "name": "azure-storage",
+        "source": "microsoft/azure-skills",
+        "yesterday": 10,
+        "today": 10,
+        "change": 0,
+        "installsDiff": 982,
+        "todayInstalls": 371360
+      },
+      {
+        "id": "anthropics/skills/skill-creator",
+        "name": "skill-creator",
+        "source": "anthropics/skills",
+        "yesterday": 27,
+        "today": 27,
+        "change": 0,
+        "installsDiff": 1269,
+        "todayInstalls": 255806
+      },
+      {
+        "id": "microsoft/azure-skills/entra-app-registration",
+        "name": "entra-app-registration",
+        "source": "microsoft/azure-skills",
+        "yesterday": 12,
+        "today": 12,
+        "change": 0,
+        "installsDiff": 984,
+        "todayInstalls": 370943
+      },
+      {
+        "id": "remotion-dev/skills/remotion-best-practices",
+        "name": "remotion-best-practices",
+        "source": "remotion-dev/skills",
+        "yesterday": 22,
+        "today": 22,
+        "change": 0,
+        "installsDiff": 1696,
+        "todayInstalls": 352919
+      },
+      {
+        "id": "vercel-labs/agent-browser/agent-browser",
+        "name": "agent-browser",
+        "source": "vercel-labs/agent-browser",
+        "yesterday": 4,
+        "today": 4,
+        "change": 0,
+        "installsDiff": 2309,
+        "todayInstalls": 424018
       }
     ]
   }
