@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "id": "vercel-labs/skills/find-skills",
+    "name": "find-skills",
+    "source": "vercel-labs/skills",
+    "installs": 2539141,
+    "weeklyInstalls": [
+      116561,
+      111669,
+      112706,
+      118887,
+      110834,
+      113781,
+      109199,
+      109085
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/skills/find-skills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express…"
+  },
+  {
+    "rank": 2,
+    "id": "anthropics/skills/frontend-design",
+    "name": "frontend-design",
+    "source": "anthropics/skills",
+    "installs": 672954,
+    "weeklyInstalls": [
+      31670,
+      29655,
+      28343,
+      31976,
+      29131,
+      27857,
+      26134,
+      28120
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/anthropics/skills/frontend-design",
+    "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
+  },
+  {
+    "rank": 3,
+    "id": "mattpocock/skills/grill-me",
+    "name": "grill-me",
+    "source": "mattpocock/skills",
+    "installs": 576496,
+    "weeklyInstalls": [
+      45437,
+      38189,
+      33210,
+      41774,
+      46900,
+      47001,
+      49104,
+      70968
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-me",
+    "description": "A relentless interview to sharpen a plan or design."
+  },
+  {
+    "rank": 4,
+    "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "name": "vercel-react-best-practices",
+    "source": "vercel-labs/agent-skills",
+    "installs": 557556,
+    "weeklyInstalls": [
+      18579,
+      16667,
+      16386,
+      18712,
+      16786,
+      16806,
+      17517,
+      19019
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js…"
+  },
+  {
+    "rank": 5,
+    "id": "vercel-labs/agent-browser/agent-browser",
+    "name": "agent-browser",
+    "source": "vercel-labs/agent-browser",
+    "installs": 552704,
+    "weeklyInstalls": [
+      23904,
+      24247,
+      24509,
+      23294,
+      21383,
+      21902,
+      20807,
+      24138
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
+    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…"
+  },
+  {
+    "rank": 6,
+    "id": "mattpocock/skills/grill-with-docs",
+    "name": "grill-with-docs",
+    "source": "mattpocock/skills",
+    "installs": 486943,
+    "weeklyInstalls": [
+      43755,
+      35966,
+      30283,
+      38107,
+      42338,
+      41746,
+      42976,
+      65694
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-with-docs",
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go."
+  },
+  {
+    "rank": 7,
+    "id": "mattpocock/skills/improve-codebase-architecture",
+    "name": "improve-codebase-architecture",
+    "source": "mattpocock/skills",
+    "installs": 475678,
+    "weeklyInstalls": [
+      40939,
+      33132,
+      28255,
+      35239,
+      39822,
+      39159,
+      39485,
+      61006
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/improve-codebase-architecture",
+    "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
+  },
+  {
+    "rank": 8,
+    "id": "vercel-labs/agent-skills/web-design-guidelines",
+    "name": "web-design-guidelines",
+    "source": "vercel-labs/agent-skills",
+    "installs": 469140,
+    "weeklyInstalls": [
+      16461,
+      14795,
+      15368,
+      18630,
+      16249,
+      15927,
+      17160,
+      18614
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site…"
+  },
+  {
+    "rank": 9,
+    "id": "microsoft/azure-skills/microsoft-foundry",
+    "name": "microsoft-foundry",
+    "source": "microsoft/azure-skills",
+    "installs": 460687,
+    "weeklyInstalls": [
+      18740,
+      15102,
+      17341,
+      15469,
+      16147,
+      13388,
+      12104,
+      16172
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/microsoft-foundry",
+    "description": "Deploy, evaluate, fine-tune, and manage Foundry agents end-to-end with azd: hosted agent scaffold/run/deploy, prompt agent create, batch eval, continuous eval,…"
+  },
+  {
+    "rank": 10,
+    "id": "microsoft/azure-skills/azure-ai",
+    "name": "azure-ai",
+    "source": "microsoft/azure-skills",
+    "installs": 457258,
+    "weeklyInstalls": [
+      18493,
+      14850,
+      17008,
+      15299,
+      16001,
+      13214,
+      11849,
+      15888
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-ai",
+    "description": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR.…"
+  },
+  {
+    "rank": 11,
+    "id": "microsoft/azure-skills/azure-deploy",
+    "name": "azure-deploy",
+    "source": "microsoft/azure-skills",
+    "installs": 456956,
+    "weeklyInstalls": [
+      18453,
+      14807,
+      17044,
+      15302,
+      15949,
+      13203,
+      11882,
+      15923
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-deploy",
+    "description": "Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/deployment-plan.md and infrastructure files. DO NOT use this skill when…"
+  },
+  {
+    "rank": 12,
+    "id": "microsoft/azure-skills/azure-diagnostics",
+    "name": "azure-diagnostics",
+    "source": "microsoft/azure-skills",
+    "installs": 456812,
+    "weeklyInstalls": [
+      18538,
+      14812,
+      17025,
+      15285,
+      15930,
+      13189,
+      11865,
+      15912
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-diagnostics",
+    "description": "Debug Azure production issues on Azure using AppLens, Azure Monitor, resource health, and safe triage. WHEN: debug production issues, troubleshoot app service,…"
+  },
+  {
+    "rank": 13,
+    "id": "microsoft/azure-skills/azure-prepare",
+    "name": "azure-prepare",
+    "source": "microsoft/azure-skills",
+    "installs": 456663,
+    "weeklyInstalls": [
+      18422,
+      14840,
+      17043,
+      15281,
+      15934,
+      13174,
+      11842,
+      15872
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-prepare",
+    "description": "Prepare azd-based Azure projects for deployment: generates azure.yaml, infrastructure (Bicep/Terraform), and Dockerfiles for the Azure Developer CLI (azd)…"
+  },
+  {
+    "rank": 14,
+    "id": "mattpocock/skills/tdd",
+    "name": "tdd",
+    "source": "mattpocock/skills",
+    "installs": 456559,
+    "weeklyInstalls": [
+      37550,
+      30544,
+      25976,
+      32534,
+      37183,
+      37176,
+      40327,
+      61196
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/tdd",
+    "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests."
+  },
+  {
+    "rank": 15,
+    "id": "microsoft/azure-skills/azure-storage",
+    "name": "azure-storage",
+    "source": "microsoft/azure-skills",
+    "installs": 456349,
+    "weeklyInstalls": [
+      18426,
+      14801,
+      17012,
+      15280,
+      15927,
+      13168,
+      11827,
+      15867
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-storage",
+    "description": "Azure Storage Services including Blob Storage, File Shares, Queue Storage, Table Storage, and Data Lake. Answers questions about storage access tiers (hot,…"
+  },
+  {
+    "rank": 16,
+    "id": "microsoft/azure-skills/azure-validate",
+    "name": "azure-validate",
+    "source": "microsoft/azure-skills",
+    "installs": 456018,
+    "weeklyInstalls": [
+      18393,
+      14760,
+      17011,
+      15281,
+      15922,
+      13168,
+      11832,
+      15867
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-validate",
+    "description": "Pre-deployment validation for Azure readiness. Run deep checks on configuration, infrastructure (Bicep or Terraform), RBAC role assignments, managed identity…"
+  },
+  {
+    "rank": 17,
+    "id": "microsoft/azure-skills/entra-app-registration",
+    "name": "entra-app-registration",
+    "source": "microsoft/azure-skills",
+    "installs": 455903,
+    "weeklyInstalls": [
+      18399,
+      14742,
+      16986,
+      15241,
+      15919,
+      13172,
+      11827,
+      15874
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/entra-app-registration",
+    "description": "Guides Microsoft Entra ID app registration, OAuth 2.0 authentication, and MSAL integration. USE FOR: create app registration, register Azure AD app, configure…"
+  },
+  {
+    "rank": 18,
+    "id": "microsoft/azure-skills/appinsights-instrumentation",
+    "name": "appinsights-instrumentation",
+    "source": "microsoft/azure-skills",
+    "installs": 455823,
+    "weeklyInstalls": [
+      18397,
+      14722,
+      16930,
+      15226,
+      15905,
+      13159,
+      11819,
+      15867
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/appinsights-instrumentation",
+    "description": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to…"
+  },
+  {
+    "rank": 19,
+    "id": "microsoft/azure-skills/azure-compliance",
+    "name": "azure-compliance",
+    "source": "microsoft/azure-skills",
+    "installs": 455745,
+    "weeklyInstalls": [
+      18401,
+      14740,
+      16964,
+      15225,
+      15905,
+      13154,
+      11822,
+      15864
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
+    "description": "Run Azure compliance and security audits with azqr plus Key Vault expiration checks. Covers best-practice assessment, resource review, policy/compliance…"
+  },
+  {
+    "rank": 20,
+    "id": "microsoft/azure-skills/azure-resource-lookup",
+    "name": "azure-resource-lookup",
+    "source": "microsoft/azure-skills",
+    "installs": 455736,
+    "weeklyInstalls": [
+      18383,
+      14798,
+      16984,
+      15214,
+      15906,
+      13153,
+      11822,
+      15861
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-lookup",
+    "description": "List, find, and show Azure resources across subscriptions or resource groups. Handles prompts like \"list the websites in my subscription\", \"list my web apps\",…"
+  },
+  {
+    "rank": 21,
+    "id": "microsoft/azure-skills/azure-rbac",
+    "name": "azure-rbac",
+    "source": "microsoft/azure-skills",
+    "installs": 455731,
+    "weeklyInstalls": [
+      18386,
+      14739,
+      16972,
+      15234,
+      15907,
+      13150,
+      11820,
+      15863
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-rbac",
+    "description": "Helps users find the right Azure RBAC role for an identity with least privilege access, then generate CLI commands and Bicep code to assign it. Also provides…"
+  },
+  {
+    "rank": 22,
+    "id": "microsoft/azure-skills/azure-aigateway",
+    "name": "azure-aigateway",
+    "source": "microsoft/azure-skills",
+    "installs": 455644,
+    "weeklyInstalls": [
+      18383,
+      14734,
+      16969,
+      15224,
+      15906,
+      13149,
+      11817,
+      15861
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-aigateway",
+    "description": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety, load balancing, AI…"
+  },
+  {
+    "rank": 23,
+    "id": "microsoft/azure-skills/azure-kusto",
+    "name": "azure-kusto",
+    "source": "microsoft/azure-skills",
+    "installs": 455579,
+    "weeklyInstalls": [
+      18379,
+      14726,
+      16959,
+      15230,
+      15901,
+      13147,
+      11814,
+      15857
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-kusto",
+    "description": "Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. WHEN: KQL queries, Kusto database…"
+  },
+  {
+    "rank": 24,
+    "id": "microsoft/azure-skills/azure-resource-visualizer",
+    "name": "azure-resource-visualizer",
+    "source": "microsoft/azure-skills",
+    "installs": 455567,
+    "weeklyInstalls": [
+      18379,
+      14712,
+      16926,
+      15221,
+      15903,
+      13147,
+      11820,
+      15858
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-resource-visualizer",
+    "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. WHEN: create…"
+  },
+  {
+    "rank": 25,
+    "id": "microsoft/azure-skills/azure-messaging",
+    "name": "azure-messaging",
+    "source": "microsoft/azure-skills",
+    "installs": 445326,
+    "weeklyInstalls": [
+      18360,
+      14716,
+      16953,
+      15209,
+      15889,
+      13132,
+      11813,
+      15851
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/microsoft/azure-skills/azure-messaging",
+    "description": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing…"
+  },
+  {
+    "rank": 26,
+    "id": "remotion-dev/skills/remotion-best-practices",
+    "name": "remotion-best-practices",
+    "source": "remotion-dev/skills",
+    "installs": 429832,
+    "weeklyInstalls": [
+      13434,
+      13210,
+      13629,
+      15781,
+      13113,
+      13206,
+      12578,
+      12520
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
+    "description": "Best practices for Remotion"
+  },
+  {
+    "rank": 27,
+    "id": "open.feishu.cn/lark-approval",
+    "name": "lark-approval",
+    "source": "open.feishu.cn",
+    "installs": 422205,
+    "weeklyInstalls": [
+      36441,
+      39652,
+      40361,
+      42547,
+      36670,
+      44133,
+      46544,
+      39875
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-approval",
+    "description": ""
+  },
+  {
+    "rank": 28,
+    "id": "open.feishu.cn/lark-doc",
+    "name": "lark-doc",
+    "source": "open.feishu.cn",
+    "installs": 422041,
+    "weeklyInstalls": [
+      36393,
+      39617,
+      40320,
+      42495,
+      36649,
+      44134,
+      46563,
+      39893
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-doc",
+    "description": ""
+  },
+  {
+    "rank": 29,
+    "id": "open.feishu.cn/lark-base",
+    "name": "lark-base",
+    "source": "open.feishu.cn",
+    "installs": 421964,
+    "weeklyInstalls": [
+      36397,
+      39612,
+      40313,
+      42507,
+      36650,
+      44110,
+      46552,
+      39863
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-base",
+    "description": ""
+  },
+  {
+    "rank": 30,
+    "id": "open.feishu.cn/lark-drive",
+    "name": "lark-drive",
+    "source": "open.feishu.cn",
+    "installs": 421824,
+    "weeklyInstalls": [
+      36389,
+      39594,
+      40296,
+      42483,
+      36640,
+      44097,
+      46526,
+      39854
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-drive",
+    "description": ""
+  }
+]
