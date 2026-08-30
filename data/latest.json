@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "top30": [
     {
       "rank": 1,
       "id": "vercel-labs/skills/find-skills",
       "name": "find-skills",
       "source": "vercel-labs/skills",
-      "installs": 3160170,
+      "installs": 3170600,
       "weeklyInstalls": [
         109199,
         109085,
@@ -26,7 +26,7 @@
       "id": "mattpocock/skills/grill-me",
       "name": "grill-me",
       "source": "mattpocock/skills",
-      "installs": 999758,
+      "installs": 1005653,
       "weeklyInstalls": [
         49104,
         70968,
@@ -39,14 +39,14 @@
       ],
       "isOfficial": false,
       "url": "https://skills.sh/mattpocock/skills/grill-me",
-      "description": ""
+      "description": "A relentless interview to sharpen a plan or design."
     },
     {
       "rank": 3,
       "id": "mattpocock/skills/grill-with-docs",
       "name": "grill-with-docs",
       "source": "mattpocock/skills",
-      "installs": 851778,
+      "installs": 856939,
       "weeklyInstalls": [
         42976,
         65694,
@@ -66,7 +66,7 @@
       "id": "anthropics/skills/frontend-design",
       "name": "frontend-design",
       "source": "anthropics/skills",
-      "installs": 831209,
+      "installs": 834058,
       "weeklyInstalls": [
         26134,
         28120,
@@ -79,14 +79,14 @@
       ],
       "isOfficial": true,
       "url": "https://skills.sh/anthropics/skills/frontend-design",
-      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
+      "description": ""
     },
     {
       "rank": 5,
       "id": "mattpocock/skills/improve-codebase-architecture",
       "name": "improve-codebase-architecture",
       "source": "mattpocock/skills",
-      "installs": 819575,
+      "installs": 824417,
       "weeklyInstalls": [
         39485,
         61006,
@@ -106,7 +106,7 @@
       "id": "mattpocock/skills/tdd",
       "name": "tdd",
       "source": "mattpocock/skills",
-      "installs": 792273,
+      "installs": 797033,
       "weeklyInstalls": [
         40327,
         61196,
@@ -119,14 +119,14 @@
       ],
       "isOfficial": false,
       "url": "https://skills.sh/mattpocock/skills/tdd",
-      "description": ""
+      "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests."
     },
     {
       "rank": 7,
       "id": "vercel-labs/agent-browser/agent-browser",
       "name": "agent-browser",
       "source": "vercel-labs/agent-browser",
-      "installs": 749995,
+      "installs": 753199,
       "weeklyInstalls": [
         20807,
         24138,
@@ -139,14 +139,14 @@
       ],
       "isOfficial": true,
       "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
-      "description": ""
+      "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…"
     },
     {
       "rank": 8,
       "id": "mattpocock/skills/setup-matt-pocock-skills",
       "name": "setup-matt-pocock-skills",
       "source": "mattpocock/skills",
-      "installs": 729907,
+      "installs": 734383,
       "weeklyInstalls": [
         37202,
         59451,
@@ -166,7 +166,7 @@
       "id": "mattpocock/skills/handoff",
       "name": "handoff",
       "source": "mattpocock/skills",
-      "installs": 695021,
+      "installs": 699640,
       "weeklyInstalls": [
         38551,
         59444,
@@ -186,7 +186,7 @@
       "id": "mattpocock/skills/triage",
       "name": "triage",
       "source": "mattpocock/skills",
-      "installs": 687921,
+      "installs": 692140,
       "weeklyInstalls": [
         34205,
         54797,
@@ -199,14 +199,14 @@
       ],
       "isOfficial": false,
       "url": "https://skills.sh/mattpocock/skills/triage",
-      "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs."
+      "description": ""
     },
     {
       "rank": 11,
       "id": "mattpocock/skills/prototype",
       "name": "prototype",
       "source": "mattpocock/skills",
-      "installs": 678195,
+      "installs": 682569,
       "weeklyInstalls": [
         36047,
         57724,
@@ -226,7 +226,7 @@
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
-      "installs": 673265,
+      "installs": 674991,
       "weeklyInstalls": [
         17535,
         19037,
@@ -239,14 +239,14 @@
       ],
       "isOfficial": true,
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
-      "description": ""
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js…"
     },
     {
       "rank": 13,
       "id": "open.feishu.cn/lark-doc",
       "name": "lark-doc",
       "source": "open.feishu.cn",
-      "installs": 631759,
+      "installs": 633401,
       "weeklyInstalls": [
         46563,
         39893,
@@ -266,7 +266,7 @@
       "id": "open.feishu.cn/lark-base",
       "name": "lark-base",
       "source": "open.feishu.cn",
-      "installs": 631638,
+      "installs": 633279,
       "weeklyInstalls": [
         46552,
         39863,
@@ -286,7 +286,7 @@
       "id": "open.feishu.cn/lark-drive",
       "name": "lark-drive",
       "source": "open.feishu.cn",
-      "installs": 631463,
+      "installs": 633103,
       "weeklyInstalls": [
         46526,
         39854,
@@ -306,7 +306,7 @@
       "id": "open.feishu.cn/lark-approval",
       "name": "lark-approval",
       "source": "open.feishu.cn",
-      "installs": 631358,
+      "installs": 632990,
       "weeklyInstalls": [
         46544,
         39875,
@@ -326,7 +326,7 @@
       "id": "open.feishu.cn/lark-shared",
       "name": "lark-shared",
       "source": "open.feishu.cn",
-      "installs": 631212,
+      "installs": 632850,
       "weeklyInstalls": [
         46514,
         39819,
@@ -346,7 +346,7 @@
       "id": "open.feishu.cn/lark-im",
       "name": "lark-im",
       "source": "open.feishu.cn",
-      "installs": 631067,
+      "installs": 632705,
       "weeklyInstalls": [
         46512,
         39833,
@@ -366,7 +366,7 @@
       "id": "open.feishu.cn/lark-calendar",
       "name": "lark-calendar",
       "source": "open.feishu.cn",
-      "installs": 631025,
+      "installs": 632659,
       "weeklyInstalls": [
         46529,
         39836,
@@ -386,7 +386,7 @@
       "id": "open.feishu.cn/lark-contact",
       "name": "lark-contact",
       "source": "open.feishu.cn",
-      "installs": 630707,
+      "installs": 632335,
       "weeklyInstalls": [
         46518,
         39842,
@@ -406,7 +406,7 @@
       "id": "open.feishu.cn/lark-sheets",
       "name": "lark-sheets",
       "source": "open.feishu.cn",
-      "installs": 630697,
+      "installs": 632332,
       "weeklyInstalls": [
         46500,
         39812,
@@ -426,7 +426,7 @@
       "id": "open.feishu.cn/lark-minutes",
       "name": "lark-minutes",
       "source": "open.feishu.cn",
-      "installs": 630644,
+      "installs": 632275,
       "weeklyInstalls": [
         46467,
         39796,
@@ -446,7 +446,7 @@
       "id": "open.feishu.cn/lark-wiki",
       "name": "lark-wiki",
       "source": "open.feishu.cn",
-      "installs": 630611,
+      "installs": 632244,
       "weeklyInstalls": [
         46481,
         39803,
@@ -466,7 +466,7 @@
       "id": "open.feishu.cn/lark-event",
       "name": "lark-event",
       "source": "open.feishu.cn",
-      "installs": 630408,
+      "installs": 632038,
       "weeklyInstalls": [
         46479,
         39798,
@@ -486,7 +486,7 @@
       "id": "open.feishu.cn/lark-attendance",
       "name": "lark-attendance",
       "source": "open.feishu.cn",
-      "installs": 630342,
+      "installs": 631967,
       "weeklyInstalls": [
         46480,
         39815,
@@ -506,7 +506,7 @@
       "id": "open.feishu.cn/lark-whiteboard",
       "name": "lark-whiteboard",
       "source": "open.feishu.cn",
-      "installs": 630319,
+      "installs": 631952,
       "weeklyInstalls": [
         46471,
         39800,
@@ -526,7 +526,7 @@
       "id": "open.feishu.cn/lark-task",
       "name": "lark-task",
       "source": "open.feishu.cn",
-      "installs": 630302,
+      "installs": 631938,
       "weeklyInstalls": [
         46446,
         39778,
@@ -546,7 +546,7 @@
       "id": "open.feishu.cn/lark-slides",
       "name": "lark-slides",
       "source": "open.feishu.cn",
-      "installs": 630256,
+      "installs": 631887,
       "weeklyInstalls": [
         46439,
         39774,
@@ -566,7 +566,7 @@
       "id": "open.feishu.cn/lark-openapi-explorer",
       "name": "lark-openapi-explorer",
       "source": "open.feishu.cn",
-      "installs": 630246,
+      "installs": 631877,
       "weeklyInstalls": [
         46459,
         39794,
@@ -586,7 +586,7 @@
       "id": "open.feishu.cn/lark-mail",
       "name": "lark-mail",
       "source": "open.feishu.cn",
-      "installs": 630239,
+      "installs": 631872,
       "weeklyInstalls": [
         46461,
         39793,
@@ -607,274 +607,14 @@
     "dropped": [],
     "rankChanges": [
       {
-        "id": "open.feishu.cn/lark-openapi-explorer",
-        "name": "lark-openapi-explorer",
-        "source": "open.feishu.cn",
-        "yesterday": 29,
-        "today": 29,
-        "change": 0,
-        "installsDiff": 1859,
-        "todayInstalls": 630246
-      },
-      {
-        "id": "vercel-labs/skills/find-skills",
-        "name": "find-skills",
-        "source": "vercel-labs/skills",
-        "yesterday": 1,
-        "today": 1,
-        "change": 0,
-        "installsDiff": 10294,
-        "todayInstalls": 3160170
-      },
-      {
-        "id": "mattpocock/skills/handoff",
-        "name": "handoff",
-        "source": "mattpocock/skills",
-        "yesterday": 9,
-        "today": 9,
-        "change": 0,
-        "installsDiff": 4814,
-        "todayInstalls": 695021
-      },
-      {
-        "id": "mattpocock/skills/grill-with-docs",
-        "name": "grill-with-docs",
-        "source": "mattpocock/skills",
-        "yesterday": 3,
-        "today": 3,
-        "change": 0,
-        "installsDiff": 5373,
-        "todayInstalls": 851778
-      },
-      {
-        "id": "open.feishu.cn/lark-task",
-        "name": "lark-task",
-        "source": "open.feishu.cn",
-        "yesterday": 27,
-        "today": 27,
-        "change": 0,
-        "installsDiff": 1868,
-        "todayInstalls": 630302
-      },
-      {
-        "id": "open.feishu.cn/lark-wiki",
-        "name": "lark-wiki",
-        "source": "open.feishu.cn",
-        "yesterday": 23,
-        "today": 23,
-        "change": 0,
-        "installsDiff": 1875,
-        "todayInstalls": 630611
-      },
-      {
         "id": "open.feishu.cn/lark-approval",
         "name": "lark-approval",
         "source": "open.feishu.cn",
         "yesterday": 16,
         "today": 16,
         "change": 0,
-        "installsDiff": 1875,
-        "todayInstalls": 631358
-      },
-      {
-        "id": "mattpocock/skills/prototype",
-        "name": "prototype",
-        "source": "mattpocock/skills",
-        "yesterday": 11,
-        "today": 11,
-        "change": 0,
-        "installsDiff": 4551,
-        "todayInstalls": 678195
-      },
-      {
-        "id": "mattpocock/skills/tdd",
-        "name": "tdd",
-        "source": "mattpocock/skills",
-        "yesterday": 6,
-        "today": 6,
-        "change": 0,
-        "installsDiff": 4820,
-        "todayInstalls": 792273
-      },
-      {
-        "id": "open.feishu.cn/lark-whiteboard",
-        "name": "lark-whiteboard",
-        "source": "open.feishu.cn",
-        "yesterday": 26,
-        "today": 26,
-        "change": 0,
-        "installsDiff": 1867,
-        "todayInstalls": 630319
-      },
-      {
-        "id": "open.feishu.cn/lark-slides",
-        "name": "lark-slides",
-        "source": "open.feishu.cn",
-        "yesterday": 28,
-        "today": 28,
-        "change": 0,
-        "installsDiff": 1869,
-        "todayInstalls": 630256
-      },
-      {
-        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
-        "name": "vercel-react-best-practices",
-        "source": "vercel-labs/agent-skills",
-        "yesterday": 12,
-        "today": 12,
-        "change": 0,
-        "installsDiff": 1953,
-        "todayInstalls": 673265
-      },
-      {
-        "id": "open.feishu.cn/lark-sheets",
-        "name": "lark-sheets",
-        "source": "open.feishu.cn",
-        "yesterday": 21,
-        "today": 21,
-        "change": 0,
-        "installsDiff": 1889,
-        "todayInstalls": 630697
-      },
-      {
-        "id": "vercel-labs/agent-browser/agent-browser",
-        "name": "agent-browser",
-        "source": "vercel-labs/agent-browser",
-        "yesterday": 7,
-        "today": 7,
-        "change": 0,
-        "installsDiff": 4656,
-        "todayInstalls": 749995
-      },
-      {
-        "id": "mattpocock/skills/setup-matt-pocock-skills",
-        "name": "setup-matt-pocock-skills",
-        "source": "mattpocock/skills",
-        "yesterday": 8,
-        "today": 8,
-        "change": 0,
-        "installsDiff": 4573,
-        "todayInstalls": 729907
-      },
-      {
-        "id": "open.feishu.cn/lark-contact",
-        "name": "lark-contact",
-        "source": "open.feishu.cn",
-        "yesterday": 20,
-        "today": 20,
-        "change": 0,
-        "installsDiff": 1860,
-        "todayInstalls": 630707
-      },
-      {
-        "id": "anthropics/skills/frontend-design",
-        "name": "frontend-design",
-        "source": "anthropics/skills",
-        "yesterday": 4,
-        "today": 4,
-        "change": 0,
-        "installsDiff": 2524,
-        "todayInstalls": 831209
-      },
-      {
-        "id": "open.feishu.cn/lark-attendance",
-        "name": "lark-attendance",
-        "source": "open.feishu.cn",
-        "yesterday": 25,
-        "today": 25,
-        "change": 0,
-        "installsDiff": 1857,
-        "todayInstalls": 630342
-      },
-      {
-        "id": "open.feishu.cn/lark-calendar",
-        "name": "lark-calendar",
-        "source": "open.feishu.cn",
-        "yesterday": 19,
-        "today": 19,
-        "change": 0,
-        "installsDiff": 1874,
-        "todayInstalls": 631025
-      },
-      {
-        "id": "open.feishu.cn/lark-doc",
-        "name": "lark-doc",
-        "source": "open.feishu.cn",
-        "yesterday": 13,
-        "today": 13,
-        "change": 0,
-        "installsDiff": 1882,
-        "todayInstalls": 631759
-      },
-      {
-        "id": "open.feishu.cn/lark-mail",
-        "name": "lark-mail",
-        "source": "open.feishu.cn",
-        "yesterday": 30,
-        "today": 30,
-        "change": 0,
-        "installsDiff": 1868,
-        "todayInstalls": 630239
-      },
-      {
-        "id": "mattpocock/skills/triage",
-        "name": "triage",
-        "source": "mattpocock/skills",
-        "yesterday": 10,
-        "today": 10,
-        "change": 0,
-        "installsDiff": 4373,
-        "todayInstalls": 687921
-      },
-      {
-        "id": "open.feishu.cn/lark-base",
-        "name": "lark-base",
-        "source": "open.feishu.cn",
-        "yesterday": 14,
-        "today": 14,
-        "change": 0,
-        "installsDiff": 1882,
-        "todayInstalls": 631638
-      },
-      {
-        "id": "mattpocock/skills/improve-codebase-architecture",
-        "name": "improve-codebase-architecture",
-        "source": "mattpocock/skills",
-        "yesterday": 5,
-        "today": 5,
-        "change": 0,
-        "installsDiff": 4956,
-        "todayInstalls": 819575
-      },
-      {
-        "id": "mattpocock/skills/grill-me",
-        "name": "grill-me",
-        "source": "mattpocock/skills",
-        "yesterday": 2,
-        "today": 2,
-        "change": 0,
-        "installsDiff": 6229,
-        "todayInstalls": 999758
-      },
-      {
-        "id": "open.feishu.cn/lark-event",
-        "name": "lark-event",
-        "source": "open.feishu.cn",
-        "yesterday": 24,
-        "today": 24,
-        "change": 0,
-        "installsDiff": 1860,
-        "todayInstalls": 630408
-      },
-      {
-        "id": "open.feishu.cn/lark-drive",
-        "name": "lark-drive",
-        "source": "open.feishu.cn",
-        "yesterday": 15,
-        "today": 15,
-        "change": 0,
-        "installsDiff": 1883,
-        "todayInstalls": 631463
+        "installsDiff": 1632,
+        "todayInstalls": 632990
       },
       {
         "id": "open.feishu.cn/lark-im",
@@ -883,8 +623,88 @@
         "yesterday": 18,
         "today": 18,
         "change": 0,
-        "installsDiff": 1886,
-        "todayInstalls": 631067
+        "installsDiff": 1638,
+        "todayInstalls": 632705
+      },
+      {
+        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+        "name": "vercel-react-best-practices",
+        "source": "vercel-labs/agent-skills",
+        "yesterday": 12,
+        "today": 12,
+        "change": 0,
+        "installsDiff": 1726,
+        "todayInstalls": 674991
+      },
+      {
+        "id": "mattpocock/skills/grill-me",
+        "name": "grill-me",
+        "source": "mattpocock/skills",
+        "yesterday": 2,
+        "today": 2,
+        "change": 0,
+        "installsDiff": 5895,
+        "todayInstalls": 1005653
+      },
+      {
+        "id": "open.feishu.cn/lark-contact",
+        "name": "lark-contact",
+        "source": "open.feishu.cn",
+        "yesterday": 20,
+        "today": 20,
+        "change": 0,
+        "installsDiff": 1628,
+        "todayInstalls": 632335
+      },
+      {
+        "id": "mattpocock/skills/prototype",
+        "name": "prototype",
+        "source": "mattpocock/skills",
+        "yesterday": 11,
+        "today": 11,
+        "change": 0,
+        "installsDiff": 4374,
+        "todayInstalls": 682569
+      },
+      {
+        "id": "vercel-labs/agent-browser/agent-browser",
+        "name": "agent-browser",
+        "source": "vercel-labs/agent-browser",
+        "yesterday": 7,
+        "today": 7,
+        "change": 0,
+        "installsDiff": 3204,
+        "todayInstalls": 753199
+      },
+      {
+        "id": "open.feishu.cn/lark-mail",
+        "name": "lark-mail",
+        "source": "open.feishu.cn",
+        "yesterday": 30,
+        "today": 30,
+        "change": 0,
+        "installsDiff": 1633,
+        "todayInstalls": 631872
+      },
+      {
+        "id": "open.feishu.cn/lark-calendar",
+        "name": "lark-calendar",
+        "source": "open.feishu.cn",
+        "yesterday": 19,
+        "today": 19,
+        "change": 0,
+        "installsDiff": 1634,
+        "todayInstalls": 632659
+      },
+      {
+        "id": "open.feishu.cn/lark-whiteboard",
+        "name": "lark-whiteboard",
+        "source": "open.feishu.cn",
+        "yesterday": 26,
+        "today": 26,
+        "change": 0,
+        "installsDiff": 1633,
+        "todayInstalls": 631952
       },
       {
         "id": "open.feishu.cn/lark-minutes",
@@ -893,8 +713,138 @@
         "yesterday": 22,
         "today": 22,
         "change": 0,
-        "installsDiff": 1868,
-        "todayInstalls": 630644
+        "installsDiff": 1631,
+        "todayInstalls": 632275
+      },
+      {
+        "id": "mattpocock/skills/setup-matt-pocock-skills",
+        "name": "setup-matt-pocock-skills",
+        "source": "mattpocock/skills",
+        "yesterday": 8,
+        "today": 8,
+        "change": 0,
+        "installsDiff": 4476,
+        "todayInstalls": 734383
+      },
+      {
+        "id": "open.feishu.cn/lark-slides",
+        "name": "lark-slides",
+        "source": "open.feishu.cn",
+        "yesterday": 28,
+        "today": 28,
+        "change": 0,
+        "installsDiff": 1631,
+        "todayInstalls": 631887
+      },
+      {
+        "id": "open.feishu.cn/lark-openapi-explorer",
+        "name": "lark-openapi-explorer",
+        "source": "open.feishu.cn",
+        "yesterday": 29,
+        "today": 29,
+        "change": 0,
+        "installsDiff": 1631,
+        "todayInstalls": 631877
+      },
+      {
+        "id": "open.feishu.cn/lark-drive",
+        "name": "lark-drive",
+        "source": "open.feishu.cn",
+        "yesterday": 15,
+        "today": 15,
+        "change": 0,
+        "installsDiff": 1640,
+        "todayInstalls": 633103
+      },
+      {
+        "id": "mattpocock/skills/tdd",
+        "name": "tdd",
+        "source": "mattpocock/skills",
+        "yesterday": 6,
+        "today": 6,
+        "change": 0,
+        "installsDiff": 4760,
+        "todayInstalls": 797033
+      },
+      {
+        "id": "open.feishu.cn/lark-event",
+        "name": "lark-event",
+        "source": "open.feishu.cn",
+        "yesterday": 24,
+        "today": 24,
+        "change": 0,
+        "installsDiff": 1630,
+        "todayInstalls": 632038
+      },
+      {
+        "id": "mattpocock/skills/handoff",
+        "name": "handoff",
+        "source": "mattpocock/skills",
+        "yesterday": 9,
+        "today": 9,
+        "change": 0,
+        "installsDiff": 4619,
+        "todayInstalls": 699640
+      },
+      {
+        "id": "open.feishu.cn/lark-doc",
+        "name": "lark-doc",
+        "source": "open.feishu.cn",
+        "yesterday": 13,
+        "today": 13,
+        "change": 0,
+        "installsDiff": 1642,
+        "todayInstalls": 633401
+      },
+      {
+        "id": "anthropics/skills/frontend-design",
+        "name": "frontend-design",
+        "source": "anthropics/skills",
+        "yesterday": 4,
+        "today": 4,
+        "change": 0,
+        "installsDiff": 2849,
+        "todayInstalls": 834058
+      },
+      {
+        "id": "open.feishu.cn/lark-sheets",
+        "name": "lark-sheets",
+        "source": "open.feishu.cn",
+        "yesterday": 21,
+        "today": 21,
+        "change": 0,
+        "installsDiff": 1635,
+        "todayInstalls": 632332
+      },
+      {
+        "id": "open.feishu.cn/lark-attendance",
+        "name": "lark-attendance",
+        "source": "open.feishu.cn",
+        "yesterday": 25,
+        "today": 25,
+        "change": 0,
+        "installsDiff": 1625,
+        "todayInstalls": 631967
+      },
+      {
+        "id": "vercel-labs/skills/find-skills",
+        "name": "find-skills",
+        "source": "vercel-labs/skills",
+        "yesterday": 1,
+        "today": 1,
+        "change": 0,
+        "installsDiff": 10430,
+        "todayInstalls": 3170600
+      },
+      {
+        "id": "open.feishu.cn/lark-task",
+        "name": "lark-task",
+        "source": "open.feishu.cn",
+        "yesterday": 27,
+        "today": 27,
+        "change": 0,
+        "installsDiff": 1636,
+        "todayInstalls": 631938
       },
       {
         "id": "open.feishu.cn/lark-shared",
@@ -903,8 +853,58 @@
         "yesterday": 17,
         "today": 17,
         "change": 0,
-        "installsDiff": 1880,
-        "todayInstalls": 631212
+        "installsDiff": 1638,
+        "todayInstalls": 632850
+      },
+      {
+        "id": "mattpocock/skills/improve-codebase-architecture",
+        "name": "improve-codebase-architecture",
+        "source": "mattpocock/skills",
+        "yesterday": 5,
+        "today": 5,
+        "change": 0,
+        "installsDiff": 4842,
+        "todayInstalls": 824417
+      },
+      {
+        "id": "mattpocock/skills/grill-with-docs",
+        "name": "grill-with-docs",
+        "source": "mattpocock/skills",
+        "yesterday": 3,
+        "today": 3,
+        "change": 0,
+        "installsDiff": 5161,
+        "todayInstalls": 856939
+      },
+      {
+        "id": "open.feishu.cn/lark-wiki",
+        "name": "lark-wiki",
+        "source": "open.feishu.cn",
+        "yesterday": 23,
+        "today": 23,
+        "change": 0,
+        "installsDiff": 1633,
+        "todayInstalls": 632244
+      },
+      {
+        "id": "mattpocock/skills/triage",
+        "name": "triage",
+        "source": "mattpocock/skills",
+        "yesterday": 10,
+        "today": 10,
+        "change": 0,
+        "installsDiff": 4219,
+        "todayInstalls": 692140
+      },
+      {
+        "id": "open.feishu.cn/lark-base",
+        "name": "lark-base",
+        "source": "open.feishu.cn",
+        "yesterday": 14,
+        "today": 14,
+        "change": 0,
+        "installsDiff": 1641,
+        "todayInstalls": 633279
       }
     ]
   }
