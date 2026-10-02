@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "id": "vercel-labs/skills/find-skills",
+    "name": "find-skills",
+    "source": "vercel-labs/skills",
+    "installs": 3664327,
+    "weeklyInstalls": [
+      96861,
+      93130,
+      100221,
+      103058,
+      102072,
+      101832,
+      105632,
+      104050
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/skills/find-skills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express…"
+  },
+  {
+    "rank": 2,
+    "id": "mattpocock/skills/grill-me",
+    "name": "grill-me",
+    "source": "mattpocock/skills",
+    "installs": 1267232,
+    "weeklyInstalls": [
+      75922,
+      65802,
+      71736,
+      66035,
+      63238,
+      57738,
+      54238,
+      48748
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-me",
+    "description": "A relentless interview to sharpen a plan or design."
+  },
+  {
+    "rank": 3,
+    "id": "mattpocock/skills/grill-with-docs",
+    "name": "grill-with-docs",
+    "source": "mattpocock/skills",
+    "installs": 1082947,
+    "weeklyInstalls": [
+      66362,
+      55776,
+      62108,
+      56619,
+      54857,
+      49668,
+      46913,
+      42342
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-with-docs",
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go."
+  },
+  {
+    "rank": 4,
+    "id": "mattpocock/skills/improve-codebase-architecture",
+    "name": "improve-codebase-architecture",
+    "source": "mattpocock/skills",
+    "installs": 1029735,
+    "weeklyInstalls": [
+      63780,
+      54240,
+      59606,
+      52645,
+      50293,
+      44253,
+      41316,
+      37752
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/improve-codebase-architecture",
+    "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
+  },
+  {
+    "rank": 5,
+    "id": "vercel-labs/agent-browser/agent-browser",
+    "name": "agent-browser",
+    "source": "vercel-labs/agent-browser",
+    "installs": 1004698,
+    "weeklyInstalls": [
+      33224,
+      36656,
+      32899,
+      38886,
+      42640,
+      45317,
+      49445,
+      64227
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
+    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…"
+  },
+  {
+    "rank": 6,
+    "id": "mattpocock/skills/tdd",
+    "name": "tdd",
+    "source": "mattpocock/skills",
+    "installs": 1001628,
+    "weeklyInstalls": [
+      63627,
+      52249,
+      57225,
+      51673,
+      49590,
+      44259,
+      41660,
+      37510
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/tdd",
+    "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests."
+  },
+  {
+    "rank": 7,
+    "id": "anthropics/skills/frontend-design",
+    "name": "frontend-design",
+    "source": "anthropics/skills",
+    "installs": 944970,
+    "weeklyInstalls": [
+      25773,
+      24760,
+      26482,
+      26382,
+      24200,
+      22533,
+      22545,
+      23309
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/anthropics/skills/frontend-design",
+    "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
+  },
+  {
+    "rank": 8,
+    "id": "mattpocock/skills/setup-matt-pocock-skills",
+    "name": "setup-matt-pocock-skills",
+    "source": "mattpocock/skills",
+    "installs": 924871,
+    "weeklyInstalls": [
+      61714,
+      49250,
+      52155,
+      48879,
+      46685,
+      41541,
+      38605,
+      34843
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/setup-matt-pocock-skills",
+    "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the…"
+  },
+  {
+    "rank": 9,
+    "id": "mattpocock/skills/handoff",
+    "name": "handoff",
+    "source": "mattpocock/skills",
+    "installs": 902700,
+    "weeklyInstalls": [
+      58162,
+      48859,
+      53593,
+      49569,
+      48555,
+      44434,
+      42284,
+      38454
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/handoff",
+    "description": "Compact the current conversation into a handoff document for another agent to pick up."
+  },
+  {
+    "rank": 10,
+    "id": "mattpocock/skills/triage",
+    "name": "triage",
+    "source": "mattpocock/skills",
+    "installs": 873208,
+    "weeklyInstalls": [
+      58240,
+      47409,
+      51899,
+      46422,
+      44334,
+      39158,
+      36483,
+      33584
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/triage",
+    "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs."
+  },
+  {
+    "rank": 11,
+    "id": "mattpocock/skills/prototype",
+    "name": "prototype",
+    "source": "mattpocock/skills",
+    "installs": 870272,
+    "weeklyInstalls": [
+      60846,
+      48412,
+      52775,
+      48115,
+      45883,
+      41091,
+      39061,
+      35058
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/prototype",
+    "description": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore what a…"
+  },
+  {
+    "rank": 12,
+    "id": "mattpocock/skills/grilling",
+    "name": "grilling",
+    "source": "mattpocock/skills",
+    "installs": 816570,
+    "weeklyInstalls": [
+      69023,
+      57496,
+      64483,
+      59375,
+      57402,
+      53033,
+      50276,
+      44934
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grilling",
+    "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases."
+  },
+  {
+    "rank": 13,
+    "id": "genmedia-labs/skills/video-edit",
+    "name": "video-edit",
+    "source": "genmedia-labs/skills",
+    "installs": 771232,
+    "weeklyInstalls": [
+      0,
+      30348,
+      105081,
+      115940,
+      113373,
+      108975,
+      113312,
+      114230
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/genmedia-labs/skills/video-edit",
+    "description": "Edit existing video on RunComfy — this skill is a smart router that matches the user's intent to the right edit model in the RunComfy catalog. Picks Wan 2.7…"
+  },
+  {
+    "rank": 14,
+    "id": "genmedia-labs/skills/ai-video-generation",
+    "name": "ai-video-generation",
+    "source": "genmedia-labs/skills",
+    "installs": 769887,
+    "weeklyInstalls": [
+      0,
+      30425,
+      105307,
+      116056,
+      112626,
+      108587,
+      113137,
+      113815
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/genmedia-labs/skills/ai-video-generation",
+    "description": "Generate AI videos on RunComfy via the `runcomfy` CLI — a smart router across the full video-model catalog: HappyHorse 1.0 (Arena #1, native in-pass audio),…"
+  },
+  {
+    "rank": 15,
+    "id": "genmedia-labs/skills/ai-music",
+    "name": "ai-music",
+    "source": "genmedia-labs/skills",
+    "installs": 769875,
+    "weeklyInstalls": [
+      0,
+      30205,
+      104982,
+      115878,
+      113480,
+      108586,
+      113221,
+      113722
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/genmedia-labs/skills/ai-music",
+    "description": "Generate AI music on RunComfy via the `runcomfy` CLI — a smart router across the music-model catalog. Routes to ElevenLabs AI Music Generation (premium 44.1…"
+  },
+  {
+    "rank": 16,
+    "id": "genmedia-labs/skills/image-to-video",
+    "name": "image-to-video",
+    "source": "genmedia-labs/skills",
+    "installs": 769296,
+    "weeklyInstalls": [
+      0,
+      30420,
+      104976,
+      116166,
+      112407,
+      108844,
+      113084,
+      113710
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/genmedia-labs/skills/image-to-video",
+    "description": "Animate any still image on RunComfy — this skill is a smart router that matches the user's intent to the right i2v model in the RunComfy catalog. Picks…"
+  },
+  {
+    "rank": 17,
+    "id": "genmedia-labs/skills/ai-image-generation",
+    "name": "ai-image-generation",
+    "source": "genmedia-labs/skills",
+    "installs": 768755,
+    "weeklyInstalls": [
+      0,
+      30291,
+      105180,
+      115944,
+      112485,
+      108359,
+      113065,
+      113702
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/genmedia-labs/skills/ai-image-generation",
+    "description": "Generate and edit images on RunComfy via the `runcomfy` CLI — a smart router across the full image-model catalog: FLUX 2 (Klein 9B/4B, Pro, Dev, Flash, Turbo,…"
+  },
+  {
+    "rank": 18,
+    "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "name": "vercel-react-best-practices",
+    "source": "vercel-labs/agent-skills",
+    "installs": 763727,
+    "weeklyInstalls": [
+      18816,
+      17464,
+      19842,
+      20093,
+      16751,
+      16576,
+      19371,
+      19049
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js…"
+  },
+  {
+    "rank": 19,
+    "id": "heygen-com/hyperframes/hyperframes-cli",
+    "name": "hyperframes-cli",
+    "source": "heygen-com/hyperframes",
+    "installs": 757483,
+    "weeklyInstalls": [
+      28363,
+      38236,
+      35297,
+      32646,
+      36197,
+      46253,
+      85193,
+      73383
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes,…"
+  },
+  {
+    "rank": 20,
+    "id": "open.feishu.cn/lark-doc",
+    "name": "lark-doc",
+    "source": "open.feishu.cn",
+    "installs": 741925,
+    "weeklyInstalls": [
+      33810,
+      31236,
+      27535,
+      27775,
+      27303,
+      25498,
+      26023,
+      17878
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-doc",
+    "description": ""
+  },
+  {
+    "rank": 21,
+    "id": "open.feishu.cn/lark-base",
+    "name": "lark-base",
+    "source": "open.feishu.cn",
+    "installs": 741608,
+    "weeklyInstalls": [
+      33798,
+      31249,
+      27532,
+      27802,
+      27271,
+      25493,
+      25934,
+      17842
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-base",
+    "description": ""
+  },
+  {
+    "rank": 22,
+    "id": "open.feishu.cn/lark-drive",
+    "name": "lark-drive",
+    "source": "open.feishu.cn",
+    "installs": 741526,
+    "weeklyInstalls": [
+      33779,
+      31172,
+      27520,
+      27877,
+      27275,
+      25485,
+      25955,
+      17862
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-drive",
+    "description": ""
+  },
+  {
+    "rank": 23,
+    "id": "mattpocock/skills/teach",
+    "name": "teach",
+    "source": "mattpocock/skills",
+    "installs": 741256,
+    "weeklyInstalls": [
+      53989,
+      44680,
+      48910,
+      46413,
+      45222,
+      40766,
+      38155,
+      34229
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/teach",
+    "description": "Teach the user a new skill or concept, within this workspace."
+  },
+  {
+    "rank": 24,
+    "id": "open.feishu.cn/lark-shared",
+    "name": "lark-shared",
+    "source": "open.feishu.cn",
+    "installs": 741117,
+    "weeklyInstalls": [
+      33772,
+      31157,
+      27511,
+      27748,
+      27143,
+      25473,
+      25974,
+      17874
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-shared",
+    "description": ""
+  },
+  {
+    "rank": 25,
+    "id": "open.feishu.cn/lark-im",
+    "name": "lark-im",
+    "source": "open.feishu.cn",
+    "installs": 740870,
+    "weeklyInstalls": [
+      33753,
+      31136,
+      27446,
+      27769,
+      27230,
+      25421,
+      25883,
+      17827
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-im",
+    "description": ""
+  },
+  {
+    "rank": 26,
+    "id": "open.feishu.cn/lark-approval",
+    "name": "lark-approval",
+    "source": "open.feishu.cn",
+    "installs": 740721,
+    "weeklyInstalls": [
+      33745,
+      31090,
+      27365,
+      27660,
+      27110,
+      25324,
+      25801,
+      17755
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-approval",
+    "description": ""
+  },
+  {
+    "rank": 27,
+    "id": "open.feishu.cn/lark-calendar",
+    "name": "lark-calendar",
+    "source": "open.feishu.cn",
+    "installs": 740655,
+    "weeklyInstalls": [
+      33729,
+      31126,
+      27423,
+      27723,
+      27209,
+      25393,
+      25820,
+      17790
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-calendar",
+    "description": ""
+  },
+  {
+    "rank": 28,
+    "id": "open.feishu.cn/lark-sheets",
+    "name": "lark-sheets",
+    "source": "open.feishu.cn",
+    "installs": 740417,
+    "weeklyInstalls": [
+      33736,
+      31121,
+      27391,
+      27718,
+      27221,
+      25388,
+      25884,
+      17816
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-sheets",
+    "description": ""
+  },
+  {
+    "rank": 29,
+    "id": "open.feishu.cn/lark-wiki",
+    "name": "lark-wiki",
+    "source": "open.feishu.cn",
+    "installs": 740198,
+    "weeklyInstalls": [
+      33717,
+      31136,
+      27407,
+      27662,
+      27081,
+      25386,
+      25889,
+      17829
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-wiki",
+    "description": ""
+  },
+  {
+    "rank": 30,
+    "id": "open.feishu.cn/lark-contact",
+    "name": "lark-contact",
+    "source": "open.feishu.cn",
+    "installs": 739857,
+    "weeklyInstalls": [
+      33713,
+      31057,
+      27362,
+      27617,
+      27017,
+      25286,
+      25739,
+      17750
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/open.feishu.cn/lark-contact",
+    "description": ""
+  }
+]
