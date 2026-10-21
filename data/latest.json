@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "top30": [
     {
       "rank": 1,
       "id": "vercel-labs/skills/find-skills",
       "name": "find-skills",
       "source": "vercel-labs/skills",
-      "installs": 3944520,
+      "installs": 3963932,
       "weeklyInstalls": [
         102581,
         101561,
@@ -26,7 +26,7 @@
       "id": "mattpocock/skills/grill-me",
       "name": "grill-me",
       "source": "mattpocock/skills",
-      "installs": 1394689,
+      "installs": 1402673,
       "weeklyInstalls": [
         65310,
         62524,
@@ -46,7 +46,7 @@
       "id": "mattpocock/skills/grill-with-docs",
       "name": "grill-with-docs",
       "source": "mattpocock/skills",
-      "installs": 1194497,
+      "installs": 1201252,
       "weeklyInstalls": [
         55962,
         54211,
@@ -66,7 +66,7 @@
       "id": "vercel-labs/agent-browser/agent-browser",
       "name": "agent-browser",
       "source": "vercel-labs/agent-browser",
-      "installs": 1182097,
+      "installs": 1196335,
       "weeklyInstalls": [
         38747,
         42484,
@@ -83,30 +83,10 @@
     },
     {
       "rank": 5,
-      "id": "mattpocock/skills/improve-codebase-architecture",
-      "name": "improve-codebase-architecture",
-      "source": "mattpocock/skills",
-      "installs": 1139711,
-      "weeklyInstalls": [
-        52010,
-        49681,
-        43664,
-        40761,
-        37241,
-        42271,
-        53008,
-        42480
-      ],
-      "isOfficial": false,
-      "url": "https://skills.sh/mattpocock/skills/improve-codebase-architecture",
-      "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
-    },
-    {
-      "rank": 6,
       "id": "heygen-com/hyperframes/hyperframes-cli",
       "name": "hyperframes-cli",
       "source": "heygen-com/hyperframes",
-      "installs": 1133360,
+      "installs": 1153978,
       "weeklyInstalls": [
         32591,
         36139,
@@ -122,11 +102,31 @@
       "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes,…"
     },
     {
+      "rank": 6,
+      "id": "mattpocock/skills/improve-codebase-architecture",
+      "name": "improve-codebase-architecture",
+      "source": "mattpocock/skills",
+      "installs": 1146081,
+      "weeklyInstalls": [
+        52010,
+        49681,
+        43664,
+        40761,
+        37241,
+        42271,
+        53008,
+        42480
+      ],
+      "isOfficial": false,
+      "url": "https://skills.sh/mattpocock/skills/improve-codebase-architecture",
+      "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
+    },
+    {
       "rank": 7,
       "id": "mattpocock/skills/tdd",
       "name": "tdd",
       "source": "mattpocock/skills",
-      "installs": 1115950,
+      "installs": 1122409,
       "weeklyInstalls": [
         51060,
         49000,
@@ -146,7 +146,7 @@
       "id": "heygen-com/hyperframes/hyperframes",
       "name": "hyperframes",
       "source": "heygen-com/hyperframes",
-      "installs": 1087793,
+      "installs": 1111000,
       "weeklyInstalls": [
         32566,
         29357,
@@ -166,7 +166,7 @@
       "id": "mattpocock/skills/setup-matt-pocock-skills",
       "name": "setup-matt-pocock-skills",
       "source": "mattpocock/skills",
-      "installs": 1029990,
+      "installs": 1035924,
       "weeklyInstalls": [
         48241,
         46072,
@@ -183,30 +183,10 @@
     },
     {
       "rank": 10,
-      "id": "mattpocock/skills/handoff",
-      "name": "handoff",
-      "source": "mattpocock/skills",
-      "installs": 1014666,
-      "weeklyInstalls": [
-        48966,
-        47996,
-        43887,
-        41765,
-        37953,
-        38422,
-        54020,
-        43967
-      ],
-      "isOfficial": false,
-      "url": "https://skills.sh/mattpocock/skills/handoff",
-      "description": "Compact the current conversation into a handoff document for another agent to pick up."
-    },
-    {
-      "rank": 11,
       "id": "flowkit-labs/skills/reddit-automation",
       "name": "reddit-automation",
       "source": "flowkit-labs/skills",
-      "installs": 1012542,
+      "installs": 1027355,
       "weeklyInstalls": [
         116183,
         113490,
@@ -222,31 +202,11 @@
       "description": "Find Reddit threads where people are genuinely asking for what you offer, then draft short, genuinely helpful replies — disclosing your affiliation honestly…"
     },
     {
-      "rank": 12,
-      "id": "anthropics/skills/frontend-design",
-      "name": "frontend-design",
-      "source": "anthropics/skills",
-      "installs": 1008340,
-      "weeklyInstalls": [
-        26207,
-        24029,
-        22329,
-        22390,
-        23150,
-        24769,
-        25306,
-        27828
-      ],
-      "isOfficial": true,
-      "url": "https://skills.sh/anthropics/skills/frontend-design",
-      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "id": "heygen-com/hyperframes/media-use",
       "name": "media-use",
       "source": "heygen-com/hyperframes",
-      "installs": 1001236,
+      "installs": 1023906,
       "weeklyInstalls": [
         31633,
         31547,
@@ -262,11 +222,51 @@
       "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block +…"
     },
     {
+      "rank": 12,
+      "id": "mattpocock/skills/handoff",
+      "name": "handoff",
+      "source": "mattpocock/skills",
+      "installs": 1021116,
+      "weeklyInstalls": [
+        48966,
+        47996,
+        43887,
+        41765,
+        37953,
+        38422,
+        54020,
+        43967
+      ],
+      "isOfficial": false,
+      "url": "https://skills.sh/mattpocock/skills/handoff",
+      "description": "Compact the current conversation into a handoff document for another agent to pick up."
+    },
+    {
+      "rank": 13,
+      "id": "anthropics/skills/frontend-design",
+      "name": "frontend-design",
+      "source": "anthropics/skills",
+      "installs": 1012808,
+      "weeklyInstalls": [
+        26207,
+        24029,
+        22329,
+        22390,
+        23150,
+        24769,
+        25306,
+        27828
+      ],
+      "isOfficial": true,
+      "url": "https://skills.sh/anthropics/skills/frontend-design",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
+    },
+    {
       "rank": 14,
       "id": "heygen-com/hyperframes/hyperframes-animation",
       "name": "hyperframes-animation",
       "source": "heygen-com/hyperframes",
-      "installs": 972578,
+      "installs": 993172,
       "weeklyInstalls": [
         32801,
         26843,
@@ -286,7 +286,7 @@
       "id": "mattpocock/skills/triage",
       "name": "triage",
       "source": "mattpocock/skills",
-      "installs": 968913,
+      "installs": 974484,
       "weeklyInstalls": [
         45823,
         43767,
@@ -306,7 +306,7 @@
       "id": "mattpocock/skills/prototype",
       "name": "prototype",
       "source": "mattpocock/skills",
-      "installs": 965303,
+      "installs": 971002,
       "weeklyInstalls": [
         47546,
         45348,
@@ -326,7 +326,7 @@
       "id": "mattpocock/skills/grilling",
       "name": "grilling",
       "source": "mattpocock/skills",
-      "installs": 950285,
+      "installs": 958148,
       "weeklyInstalls": [
         58838,
         56891,
@@ -346,7 +346,7 @@
       "id": "designed-by-ai/skills/design-mobile-apps",
       "name": "design-mobile-apps",
       "source": "designed-by-ai/skills",
-      "installs": 916949,
+      "installs": 939426,
       "weeklyInstalls": [
         0,
         53047,
@@ -366,7 +366,7 @@
       "id": "heygen-com/hyperframes/hyperframes-registry",
       "name": "hyperframes-registry",
       "source": "heygen-com/hyperframes",
-      "installs": 916455,
+      "installs": 929036,
       "weeklyInstalls": [
         25249,
         28880,
@@ -386,7 +386,7 @@
       "id": "heygen-com/hyperframes/hyperframes-core",
       "name": "hyperframes-core",
       "source": "heygen-com/hyperframes",
-      "installs": 901319,
+      "installs": 919844,
       "weeklyInstalls": [
         32982,
         29520,
@@ -406,7 +406,7 @@
       "id": "heygen-com/hyperframes/hyperframes-creative",
       "name": "hyperframes-creative",
       "source": "heygen-com/hyperframes",
-      "installs": 881217,
+      "installs": 901143,
       "weeklyInstalls": [
         27061,
         29650,
@@ -426,7 +426,7 @@
       "id": "mattpocock/skills/domain-modeling",
       "name": "domain-modeling",
       "source": "mattpocock/skills",
-      "installs": 852078,
+      "installs": 858577,
       "weeklyInstalls": [
         51869,
         49823,
@@ -446,7 +446,7 @@
       "id": "mattpocock/skills/teach",
       "name": "teach",
       "source": "mattpocock/skills",
-      "installs": 839922,
+      "installs": 845740,
       "weeklyInstalls": [
         45821,
         44684,
@@ -466,7 +466,7 @@
       "id": "mattpocock/skills/codebase-design",
       "name": "codebase-design",
       "source": "mattpocock/skills",
-      "installs": 827062,
+      "installs": 833263,
       "weeklyInstalls": [
         49880,
         48130,
@@ -486,7 +486,7 @@
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
-      "installs": 819748,
+      "installs": 823749,
       "weeklyInstalls": [
         19977,
         16627,
@@ -506,7 +506,7 @@
       "id": "101-skills/superpowers/ai-video-generation",
       "name": "ai-video-generation",
       "source": "101-skills/superpowers",
-      "installs": 813892,
+      "installs": 823490,
       "weeklyInstalls": [
         0,
         13241,
@@ -526,7 +526,7 @@
       "id": "101-skills/superpowers/ai-image-generation",
       "name": "ai-image-generation",
       "source": "101-skills/superpowers",
-      "installs": 812938,
+      "installs": 822487,
       "weeklyInstalls": [
         0,
         13165,
@@ -546,7 +546,7 @@
       "id": "101-skills/superpowers/twitter-automation",
       "name": "twitter-automation",
       "source": "101-skills/superpowers",
-      "installs": 812708,
+      "installs": 822251,
       "weeklyInstalls": [
         0,
         13446,
@@ -566,7 +566,7 @@
       "id": "101-skills/superpowers/ai-avatar-video",
       "name": "ai-avatar-video",
       "source": "101-skills/superpowers",
-      "installs": 812438,
+      "installs": 821979,
       "weeklyInstalls": [
         0,
         13376,
@@ -586,7 +586,7 @@
       "id": "mattpocock/skills/diagnosing-bugs",
       "name": "diagnosing-bugs",
       "source": "mattpocock/skills",
-      "installs": 811895,
+      "installs": 818068,
       "weeklyInstalls": [
         48467,
         46576,
@@ -607,174 +607,74 @@
     "dropped": [],
     "rankChanges": [
       {
-        "id": "mattpocock/skills/diagnosing-bugs",
-        "name": "diagnosing-bugs",
+        "id": "mattpocock/skills/handoff",
+        "name": "handoff",
         "source": "mattpocock/skills",
-        "yesterday": 26,
-        "today": 30,
-        "change": -4,
-        "installsDiff": 6334,
-        "todayInstalls": 811895
+        "yesterday": 10,
+        "today": 12,
+        "change": -2,
+        "installsDiff": 6450,
+        "todayInstalls": 1021116
       },
       {
-        "id": "heygen-com/hyperframes/hyperframes-animation",
-        "name": "hyperframes-animation",
+        "id": "heygen-com/hyperframes/media-use",
+        "name": "media-use",
         "source": "heygen-com/hyperframes",
-        "yesterday": 16,
-        "today": 14,
-        "change": 2,
-        "installsDiff": 26007,
-        "todayInstalls": 972578
-      },
-      {
-        "id": "heygen-com/hyperframes/hyperframes-registry",
-        "name": "hyperframes-registry",
-        "source": "heygen-com/hyperframes",
-        "yesterday": 18,
-        "today": 19,
-        "change": -1,
-        "installsDiff": 12796,
-        "todayInstalls": 916455
-      },
-      {
-        "id": "designed-by-ai/skills/design-mobile-apps",
-        "name": "design-mobile-apps",
-        "source": "designed-by-ai/skills",
-        "yesterday": 19,
-        "today": 18,
-        "change": 1,
-        "installsDiff": 19529,
-        "todayInstalls": 916949
-      },
-      {
-        "id": "mattpocock/skills/triage",
-        "name": "triage",
-        "source": "mattpocock/skills",
-        "yesterday": 14,
-        "today": 15,
-        "change": -1,
-        "installsDiff": 5616,
-        "todayInstalls": 968913
-      },
-      {
-        "id": "101-skills/superpowers/ai-video-generation",
-        "name": "ai-video-generation",
-        "source": "101-skills/superpowers",
-        "yesterday": 27,
-        "today": 26,
-        "change": 1,
-        "installsDiff": 9763,
-        "todayInstalls": 813892
-      },
-      {
-        "id": "101-skills/superpowers/ai-avatar-video",
-        "name": "ai-avatar-video",
-        "source": "101-skills/superpowers",
-        "yesterday": 30,
-        "today": 29,
-        "change": 1,
-        "installsDiff": 9726,
-        "todayInstalls": 812438
-      },
-      {
-        "id": "101-skills/superpowers/twitter-automation",
-        "name": "twitter-automation",
-        "source": "101-skills/superpowers",
-        "yesterday": 29,
-        "today": 28,
-        "change": 1,
-        "installsDiff": 9725,
-        "todayInstalls": 812708
-      },
-      {
-        "id": "flowkit-labs/skills/reddit-automation",
-        "name": "reddit-automation",
-        "source": "flowkit-labs/skills",
-        "yesterday": 12,
+        "yesterday": 13,
         "today": 11,
-        "change": 1,
-        "installsDiff": 14854,
-        "todayInstalls": 1012542
+        "change": 2,
+        "installsDiff": 22670,
+        "todayInstalls": 1023906
       },
       {
-        "id": "mattpocock/skills/prototype",
-        "name": "prototype",
+        "id": "mattpocock/skills/improve-codebase-architecture",
+        "name": "improve-codebase-architecture",
         "source": "mattpocock/skills",
-        "yesterday": 15,
-        "today": 16,
+        "yesterday": 5,
+        "today": 6,
         "change": -1,
-        "installsDiff": 5750,
-        "todayInstalls": 965303
-      },
-      {
-        "id": "mattpocock/skills/tdd",
-        "name": "tdd",
-        "source": "mattpocock/skills",
-        "yesterday": 6,
-        "today": 7,
-        "change": -1,
-        "installsDiff": 6626,
-        "todayInstalls": 1115950
+        "installsDiff": 6370,
+        "todayInstalls": 1146081
       },
       {
         "id": "anthropics/skills/frontend-design",
         "name": "frontend-design",
         "source": "anthropics/skills",
-        "yesterday": 11,
-        "today": 12,
+        "yesterday": 12,
+        "today": 13,
         "change": -1,
-        "installsDiff": 4200,
-        "todayInstalls": 1008340
-      },
-      {
-        "id": "101-skills/superpowers/ai-image-generation",
-        "name": "ai-image-generation",
-        "source": "101-skills/superpowers",
-        "yesterday": 28,
-        "today": 27,
-        "change": 1,
-        "installsDiff": 9738,
-        "todayInstalls": 812938
+        "installsDiff": 4468,
+        "todayInstalls": 1012808
       },
       {
         "id": "heygen-com/hyperframes/hyperframes-cli",
         "name": "hyperframes-cli",
         "source": "heygen-com/hyperframes",
-        "yesterday": 7,
-        "today": 6,
+        "yesterday": 6,
+        "today": 5,
         "change": 1,
-        "installsDiff": 26265,
-        "todayInstalls": 1133360
+        "installsDiff": 20618,
+        "todayInstalls": 1153978
       },
       {
-        "id": "mattpocock/skills/grill-me",
-        "name": "grill-me",
-        "source": "mattpocock/skills",
-        "yesterday": 2,
-        "today": 2,
-        "change": 0,
-        "installsDiff": 8123,
-        "todayInstalls": 1394689
-      },
-      {
-        "id": "mattpocock/skills/handoff",
-        "name": "handoff",
-        "source": "mattpocock/skills",
-        "yesterday": 10,
+        "id": "flowkit-labs/skills/reddit-automation",
+        "name": "reddit-automation",
+        "source": "flowkit-labs/skills",
+        "yesterday": 11,
         "today": 10,
-        "change": 0,
-        "installsDiff": 6618,
-        "todayInstalls": 1014666
+        "change": 1,
+        "installsDiff": 14813,
+        "todayInstalls": 1027355
       },
       {
-        "id": "mattpocock/skills/grill-with-docs",
-        "name": "grill-with-docs",
+        "id": "mattpocock/skills/tdd",
+        "name": "tdd",
         "source": "mattpocock/skills",
-        "yesterday": 3,
-        "today": 3,
+        "yesterday": 7,
+        "today": 7,
         "change": 0,
-        "installsDiff": 6871,
-        "todayInstalls": 1194497
+        "installsDiff": 6459,
+        "todayInstalls": 1122409
       },
       {
         "id": "heygen-com/hyperframes/hyperframes-creative",
@@ -783,68 +683,18 @@
         "yesterday": 21,
         "today": 21,
         "change": 0,
-        "installsDiff": 19053,
-        "todayInstalls": 881217
+        "installsDiff": 19926,
+        "todayInstalls": 901143
       },
       {
-        "id": "mattpocock/skills/grilling",
-        "name": "grilling",
-        "source": "mattpocock/skills",
-        "yesterday": 17,
-        "today": 17,
+        "id": "101-skills/superpowers/ai-image-generation",
+        "name": "ai-image-generation",
+        "source": "101-skills/superpowers",
+        "yesterday": 27,
+        "today": 27,
         "change": 0,
-        "installsDiff": 7936,
-        "todayInstalls": 950285
-      },
-      {
-        "id": "mattpocock/skills/domain-modeling",
-        "name": "domain-modeling",
-        "source": "mattpocock/skills",
-        "yesterday": 22,
-        "today": 22,
-        "change": 0,
-        "installsDiff": 6607,
-        "todayInstalls": 852078
-      },
-      {
-        "id": "vercel-labs/agent-browser/agent-browser",
-        "name": "agent-browser",
-        "source": "vercel-labs/agent-browser",
-        "yesterday": 4,
-        "today": 4,
-        "change": 0,
-        "installsDiff": 12538,
-        "todayInstalls": 1182097
-      },
-      {
-        "id": "mattpocock/skills/setup-matt-pocock-skills",
-        "name": "setup-matt-pocock-skills",
-        "source": "mattpocock/skills",
-        "yesterday": 9,
-        "today": 9,
-        "change": 0,
-        "installsDiff": 6001,
-        "todayInstalls": 1029990
-      },
-      {
-        "id": "mattpocock/skills/improve-codebase-architecture",
-        "name": "improve-codebase-architecture",
-        "source": "mattpocock/skills",
-        "yesterday": 5,
-        "today": 5,
-        "change": 0,
-        "installsDiff": 6492,
-        "todayInstalls": 1139711
-      },
-      {
-        "id": "heygen-com/hyperframes/hyperframes-core",
-        "name": "hyperframes-core",
-        "source": "heygen-com/hyperframes",
-        "yesterday": 20,
-        "today": 20,
-        "change": 0,
-        "installsDiff": 22002,
-        "todayInstalls": 901319
+        "installsDiff": 9549,
+        "todayInstalls": 822487
       },
       {
         "id": "vercel-labs/skills/find-skills",
@@ -853,48 +703,38 @@
         "yesterday": 1,
         "today": 1,
         "change": 0,
-        "installsDiff": 19288,
-        "todayInstalls": 3944520
+        "installsDiff": 19412,
+        "todayInstalls": 3963932
       },
       {
-        "id": "mattpocock/skills/codebase-design",
-        "name": "codebase-design",
-        "source": "mattpocock/skills",
-        "yesterday": 24,
-        "today": 24,
-        "change": 0,
-        "installsDiff": 6379,
-        "todayInstalls": 827062
-      },
-      {
-        "id": "heygen-com/hyperframes/media-use",
-        "name": "media-use",
+        "id": "heygen-com/hyperframes/hyperframes-core",
+        "name": "hyperframes-core",
         "source": "heygen-com/hyperframes",
-        "yesterday": 13,
-        "today": 13,
+        "yesterday": 20,
+        "today": 20,
         "change": 0,
-        "installsDiff": 28593,
-        "todayInstalls": 1001236
+        "installsDiff": 18525,
+        "todayInstalls": 919844
       },
       {
-        "id": "mattpocock/skills/teach",
-        "name": "teach",
+        "id": "101-skills/superpowers/ai-video-generation",
+        "name": "ai-video-generation",
+        "source": "101-skills/superpowers",
+        "yesterday": 26,
+        "today": 26,
+        "change": 0,
+        "installsDiff": 9598,
+        "todayInstalls": 823490
+      },
+      {
+        "id": "mattpocock/skills/grill-with-docs",
+        "name": "grill-with-docs",
         "source": "mattpocock/skills",
-        "yesterday": 23,
-        "today": 23,
+        "yesterday": 3,
+        "today": 3,
         "change": 0,
-        "installsDiff": 5950,
-        "todayInstalls": 839922
-      },
-      {
-        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
-        "name": "vercel-react-best-practices",
-        "source": "vercel-labs/agent-skills",
-        "yesterday": 25,
-        "today": 25,
-        "change": 0,
-        "installsDiff": 3859,
-        "todayInstalls": 819748
+        "installsDiff": 6755,
+        "todayInstalls": 1201252
       },
       {
         "id": "heygen-com/hyperframes/hyperframes",
@@ -903,8 +743,168 @@
         "yesterday": 8,
         "today": 8,
         "change": 0,
-        "installsDiff": 25999,
-        "todayInstalls": 1087793
+        "installsDiff": 23207,
+        "todayInstalls": 1111000
+      },
+      {
+        "id": "101-skills/superpowers/twitter-automation",
+        "name": "twitter-automation",
+        "source": "101-skills/superpowers",
+        "yesterday": 28,
+        "today": 28,
+        "change": 0,
+        "installsDiff": 9543,
+        "todayInstalls": 822251
+      },
+      {
+        "id": "mattpocock/skills/domain-modeling",
+        "name": "domain-modeling",
+        "source": "mattpocock/skills",
+        "yesterday": 22,
+        "today": 22,
+        "change": 0,
+        "installsDiff": 6499,
+        "todayInstalls": 858577
+      },
+      {
+        "id": "mattpocock/skills/teach",
+        "name": "teach",
+        "source": "mattpocock/skills",
+        "yesterday": 23,
+        "today": 23,
+        "change": 0,
+        "installsDiff": 5818,
+        "todayInstalls": 845740
+      },
+      {
+        "id": "heygen-com/hyperframes/hyperframes-registry",
+        "name": "hyperframes-registry",
+        "source": "heygen-com/hyperframes",
+        "yesterday": 19,
+        "today": 19,
+        "change": 0,
+        "installsDiff": 12581,
+        "todayInstalls": 929036
+      },
+      {
+        "id": "mattpocock/skills/diagnosing-bugs",
+        "name": "diagnosing-bugs",
+        "source": "mattpocock/skills",
+        "yesterday": 30,
+        "today": 30,
+        "change": 0,
+        "installsDiff": 6173,
+        "todayInstalls": 818068
+      },
+      {
+        "id": "vercel-labs/agent-browser/agent-browser",
+        "name": "agent-browser",
+        "source": "vercel-labs/agent-browser",
+        "yesterday": 4,
+        "today": 4,
+        "change": 0,
+        "installsDiff": 14238,
+        "todayInstalls": 1196335
+      },
+      {
+        "id": "mattpocock/skills/prototype",
+        "name": "prototype",
+        "source": "mattpocock/skills",
+        "yesterday": 16,
+        "today": 16,
+        "change": 0,
+        "installsDiff": 5699,
+        "todayInstalls": 971002
+      },
+      {
+        "id": "mattpocock/skills/grill-me",
+        "name": "grill-me",
+        "source": "mattpocock/skills",
+        "yesterday": 2,
+        "today": 2,
+        "change": 0,
+        "installsDiff": 7984,
+        "todayInstalls": 1402673
+      },
+      {
+        "id": "101-skills/superpowers/ai-avatar-video",
+        "name": "ai-avatar-video",
+        "source": "101-skills/superpowers",
+        "yesterday": 29,
+        "today": 29,
+        "change": 0,
+        "installsDiff": 9541,
+        "todayInstalls": 821979
+      },
+      {
+        "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+        "name": "vercel-react-best-practices",
+        "source": "vercel-labs/agent-skills",
+        "yesterday": 25,
+        "today": 25,
+        "change": 0,
+        "installsDiff": 4001,
+        "todayInstalls": 823749
+      },
+      {
+        "id": "heygen-com/hyperframes/hyperframes-animation",
+        "name": "hyperframes-animation",
+        "source": "heygen-com/hyperframes",
+        "yesterday": 14,
+        "today": 14,
+        "change": 0,
+        "installsDiff": 20594,
+        "todayInstalls": 993172
+      },
+      {
+        "id": "designed-by-ai/skills/design-mobile-apps",
+        "name": "design-mobile-apps",
+        "source": "designed-by-ai/skills",
+        "yesterday": 18,
+        "today": 18,
+        "change": 0,
+        "installsDiff": 22477,
+        "todayInstalls": 939426
+      },
+      {
+        "id": "mattpocock/skills/triage",
+        "name": "triage",
+        "source": "mattpocock/skills",
+        "yesterday": 15,
+        "today": 15,
+        "change": 0,
+        "installsDiff": 5571,
+        "todayInstalls": 974484
+      },
+      {
+        "id": "mattpocock/skills/grilling",
+        "name": "grilling",
+        "source": "mattpocock/skills",
+        "yesterday": 17,
+        "today": 17,
+        "change": 0,
+        "installsDiff": 7863,
+        "todayInstalls": 958148
+      },
+      {
+        "id": "mattpocock/skills/setup-matt-pocock-skills",
+        "name": "setup-matt-pocock-skills",
+        "source": "mattpocock/skills",
+        "yesterday": 9,
+        "today": 9,
+        "change": 0,
+        "installsDiff": 5934,
+        "todayInstalls": 1035924
+      },
+      {
+        "id": "mattpocock/skills/codebase-design",
+        "name": "codebase-design",
+        "source": "mattpocock/skills",
+        "yesterday": 24,
+        "today": 24,
+        "change": 0,
+        "installsDiff": 6201,
+        "todayInstalls": 833263
       }
     ]
   }
