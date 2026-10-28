@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "id": "vercel-labs/skills/find-skills",
+    "name": "find-skills",
+    "source": "vercel-labs/skills",
+    "installs": 4082959,
+    "weeklyInstalls": [
+      101561,
+      101317,
+      105144,
+      103601,
+      107199,
+      110524,
+      121189,
+      121665
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/skills/find-skills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express…"
+  },
+  {
+    "rank": 2,
+    "id": "mattpocock/skills/grill-me",
+    "name": "grill-me",
+    "source": "mattpocock/skills",
+    "installs": 1449101,
+    "weeklyInstalls": [
+      62524,
+      57027,
+      53625,
+      48139,
+      48386,
+      58939,
+      52386,
+      48664
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-me",
+    "description": "A relentless interview to sharpen a plan or design."
+  },
+  {
+    "rank": 3,
+    "id": "heygen-com/hyperframes/hyperframes-cli",
+    "name": "hyperframes-cli",
+    "source": "heygen-com/hyperframes",
+    "installs": 1290261,
+    "weeklyInstalls": [
+      36139,
+      46204,
+      85128,
+      73279,
+      96486,
+      146752,
+      158584,
+      144957
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "description": "The HyperFrames CLI by job - scaffold, check, look at frames, edit the timeline, preview, render locally or in the cloud, publish, project history - plus…"
+  },
+  {
+    "rank": 4,
+    "id": "vercel-labs/agent-browser/agent-browser",
+    "name": "agent-browser",
+    "source": "vercel-labs/agent-browser",
+    "installs": 1275563,
+    "weeklyInstalls": [
+      42484,
+      45195,
+      49332,
+      64115,
+      70638,
+      67374,
+      75456,
+      78806
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
+    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…"
+  },
+  {
+    "rank": 5,
+    "id": "heygen-com/hyperframes/hyperframes",
+    "name": "hyperframes",
+    "source": "heygen-com/hyperframes",
+    "installs": 1256569,
+    "weeklyInstalls": [
+      29357,
+      43983,
+      79588,
+      70843,
+      95609,
+      137375,
+      155691,
+      156397
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes",
+    "description": "Read first to make, edit, animate or render any video with HyperFrames (HTML rendered to video), including launch films, explainers, music videos, charts,…"
+  },
+  {
+    "rank": 6,
+    "id": "mattpocock/skills/grill-with-docs",
+    "name": "grill-with-docs",
+    "source": "mattpocock/skills",
+    "installs": 1240749,
+    "weeklyInstalls": [
+      54211,
+      49063,
+      46332,
+      41794,
+      41959,
+      52205,
+      44944,
+      41171
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grill-with-docs",
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go."
+  },
+  {
+    "rank": 7,
+    "id": "mattpocock/skills/improve-codebase-architecture",
+    "name": "improve-codebase-architecture",
+    "source": "mattpocock/skills",
+    "installs": 1183172,
+    "weeklyInstalls": [
+      49681,
+      43664,
+      40761,
+      37241,
+      42271,
+      53008,
+      42480,
+      38894
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/improve-codebase-architecture",
+    "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
+  },
+  {
+    "rank": 8,
+    "id": "heygen-com/hyperframes/media-use",
+    "name": "media-use",
+    "source": "heygen-com/hyperframes",
+    "installs": 1161497,
+    "weeklyInstalls": [
+      31547,
+      47443,
+      81645,
+      76011,
+      98863,
+      146510,
+      147528,
+      150801
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/media-use",
+    "description": "Get or make any media for a HyperFrames video - music, sound effects, images, icons, logos, voiceover, avatar and generated video, transcripts, cutouts, colour…"
+  },
+  {
+    "rank": 9,
+    "id": "mattpocock/skills/tdd",
+    "name": "tdd",
+    "source": "mattpocock/skills",
+    "installs": 1159779,
+    "weeklyInstalls": [
+      49000,
+      43678,
+      41124,
+      36998,
+      42084,
+      54986,
+      44593,
+      39153
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/tdd",
+    "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests."
+  },
+  {
+    "rank": 10,
+    "id": "flowkit-labs/skills/reddit-automation",
+    "name": "reddit-automation",
+    "source": "flowkit-labs/skills",
+    "installs": 1131922,
+    "weeklyInstalls": [
+      113490,
+      108855,
+      113373,
+      113916,
+      114322,
+      113172,
+      96986,
+      103833
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/flowkit-labs/skills/reddit-automation",
+    "description": "Find Reddit threads where people are genuinely asking for what you offer, then draft short, genuinely helpful replies — disclosing your affiliation honestly…"
+  },
+  {
+    "rank": 11,
+    "id": "designed-by-ai/skills/design-mobile-apps",
+    "name": "design-mobile-apps",
+    "source": "designed-by-ai/skills",
+    "installs": 1077723,
+    "weeklyInstalls": [
+      53047,
+      140172,
+      138476,
+      141029,
+      142502,
+      140054,
+      140289,
+      136799
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "description": "Design mobile app screens with Sleek, edit Sleek projects, and implement their designs in React Native or HTML."
+  },
+  {
+    "rank": 12,
+    "id": "mattpocock/skills/setup-matt-pocock-skills",
+    "name": "setup-matt-pocock-skills",
+    "source": "mattpocock/skills",
+    "installs": 1071243,
+    "weeklyInstalls": [
+      46072,
+      40968,
+      38034,
+      34332,
+      37782,
+      52357,
+      40522,
+      35702
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/setup-matt-pocock-skills",
+    "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the…"
+  },
+  {
+    "rank": 13,
+    "id": "mattpocock/skills/handoff",
+    "name": "handoff",
+    "source": "mattpocock/skills",
+    "installs": 1058326,
+    "weeklyInstalls": [
+      47996,
+      43887,
+      41765,
+      37953,
+      38422,
+      54020,
+      43967,
+      39160
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/handoff",
+    "description": "Compact the current conversation into a handoff document for another agent to pick up."
+  },
+  {
+    "rank": 14,
+    "id": "heygen-com/hyperframes/hyperframes-registry",
+    "name": "hyperframes-registry",
+    "source": "heygen-com/hyperframes",
+    "installs": 1052050,
+    "weeklyInstalls": [
+      28880,
+      42444,
+      68378,
+      65975,
+      78952,
+      115713,
+      99554,
+      111877
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-registry",
+    "description": "About 450 ready-made HyperFrames blocks and components installed as editable source - transitions, overlays, titles, kinetic type, captions, charts, map…"
+  },
+  {
+    "rank": 15,
+    "id": "anthropics/skills/frontend-design",
+    "name": "frontend-design",
+    "source": "anthropics/skills",
+    "installs": 1042514,
+    "weeklyInstalls": [
+      24029,
+      22329,
+      22390,
+      23150,
+      24769,
+      25306,
+      27828,
+      29060
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/anthropics/skills/frontend-design",
+    "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making…"
+  },
+  {
+    "rank": 16,
+    "id": "mattpocock/skills/triage",
+    "name": "triage",
+    "source": "mattpocock/skills",
+    "installs": 1006525,
+    "weeklyInstalls": [
+      43767,
+      38590,
+      35937,
+      33093,
+      36289,
+      46500,
+      37352,
+      33488
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/triage",
+    "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs."
+  },
+  {
+    "rank": 17,
+    "id": "heygen-com/hyperframes/hyperframes-animation",
+    "name": "hyperframes-animation",
+    "source": "heygen-com/hyperframes",
+    "installs": 1004858,
+    "weeklyInstalls": [
+      26843,
+      41855,
+      78223,
+      67130,
+      91534,
+      144874,
+      148755,
+      64260
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-animation",
+    "description": "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven…"
+  },
+  {
+    "rank": 18,
+    "id": "mattpocock/skills/prototype",
+    "name": "prototype",
+    "source": "mattpocock/skills",
+    "installs": 1004406,
+    "weeklyInstalls": [
+      45348,
+      40553,
+      38550,
+      34601,
+      35029,
+      44844,
+      38015,
+      34602
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/prototype",
+    "description": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore what a…"
+  },
+  {
+    "rank": 19,
+    "id": "mattpocock/skills/grilling",
+    "name": "grilling",
+    "source": "mattpocock/skills",
+    "installs": 1003105,
+    "weeklyInstalls": [
+      56891,
+      52487,
+      49789,
+      44480,
+      46132,
+      61775,
+      52706,
+      47202
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/grilling",
+    "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases."
+  },
+  {
+    "rank": 20,
+    "id": "heygen-com/hyperframes/hyperframes-core",
+    "name": "hyperframes-core",
+    "source": "heygen-com/hyperframes",
+    "installs": 930546,
+    "weeklyInstalls": [
+      29520,
+      47589,
+      80950,
+      60884,
+      92033,
+      106623,
+      112077,
+      55617
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-core",
+    "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks,…"
+  },
+  {
+    "rank": 21,
+    "id": "heygen-com/hyperframes/hyperframes-creative",
+    "name": "hyperframes-creative",
+    "source": "heygen-com/hyperframes",
+    "installs": 916593,
+    "weeklyInstalls": [
+      29650,
+      42452,
+      78353,
+      57738,
+      92669,
+      116135,
+      124499,
+      58088
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-creative",
+    "description": "Non-animation creative direction for HyperFrames videos. Use for design spec (frame.md / design.md) handling, palettes, typography, narration, beat planning,…"
+  },
+  {
+    "rank": 22,
+    "id": "mattpocock/skills/domain-modeling",
+    "name": "domain-modeling",
+    "source": "mattpocock/skills",
+    "installs": 896480,
+    "weeklyInstalls": [
+      49823,
+      45486,
+      43132,
+      38784,
+      43499,
+      53941,
+      43971,
+      39443
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/domain-modeling",
+    "description": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a GLOSSARY.md, or recording or editing an ADR."
+  },
+  {
+    "rank": 23,
+    "id": "101-skills/superpowers/ai-video-generation",
+    "name": "ai-video-generation",
+    "source": "101-skills/superpowers",
+    "installs": 891226,
+    "weeklyInstalls": [
+      13241,
+      64317,
+      213120,
+      240489,
+      130740,
+      72792,
+      67895,
+      67605
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/101-skills/superpowers/ai-video-generation",
+    "description": "Generate AI videos with Google Veo, Seedance 2.0, HappyHorse, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Veo 3, Seedance 2.0, HappyHorse…"
+  },
+  {
+    "rank": 24,
+    "id": "101-skills/superpowers/ai-image-generation",
+    "name": "ai-image-generation",
+    "source": "101-skills/superpowers",
+    "installs": 889998,
+    "weeklyInstalls": [
+      13165,
+      63881,
+      213213,
+      240509,
+      130600,
+      72599,
+      67708,
+      67369
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/101-skills/superpowers/ai-image-generation",
+    "description": "Generate AI images with GPT-Image-2, FLUX, Gemini, Grok, Seedream, Reve and 50+ models via inference.sh CLI. Models: GPT-Image-2, FLUX Dev LoRA, FLUX.2 Klein…"
+  },
+  {
+    "rank": 25,
+    "id": "101-skills/superpowers/twitter-automation",
+    "name": "twitter-automation",
+    "source": "101-skills/superpowers",
+    "installs": 889654,
+    "weeklyInstalls": [
+      13446,
+      63653,
+      213285,
+      240418,
+      130536,
+      72507,
+      67614,
+      67281
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/101-skills/superpowers/twitter-automation",
+    "description": "Automate Twitter/X with posting, engagement, and user management via inference.sh CLI. Apps: x/post-tweet, x/post-create (with media), x/post-like,…"
+  },
+  {
+    "rank": 26,
+    "id": "101-skills/superpowers/ai-avatar-video",
+    "name": "ai-avatar-video",
+    "source": "101-skills/superpowers",
+    "installs": 889396,
+    "weeklyInstalls": [
+      13376,
+      63412,
+      213289,
+      240428,
+      130550,
+      72510,
+      67623,
+      67288
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/101-skills/superpowers/ai-avatar-video",
+    "description": "Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric,…"
+  },
+  {
+    "rank": 27,
+    "id": "mattpocock/skills/teach",
+    "name": "teach",
+    "source": "mattpocock/skills",
+    "installs": 879141,
+    "weeklyInstalls": [
+      44684,
+      40223,
+      37645,
+      33746,
+      33673,
+      47203,
+      39566,
+      35109
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/teach",
+    "description": "Teach the user a new skill or concept, within this workspace."
+  },
+  {
+    "rank": 28,
+    "id": "mattpocock/skills/codebase-design",
+    "name": "codebase-design",
+    "source": "mattpocock/skills",
+    "installs": 869383,
+    "weeklyInstalls": [
+      48130,
+      43787,
+      41415,
+      37076,
+      43359,
+      52900,
+      42898,
+      37697
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/codebase-design",
+    "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a…"
+  },
+  {
+    "rank": 29,
+    "id": "mattpocock/skills/diagnosing-bugs",
+    "name": "diagnosing-bugs",
+    "source": "mattpocock/skills",
+    "installs": 853951,
+    "weeklyInstalls": [
+      46576,
+      42055,
+      40276,
+      35844,
+      41316,
+      53687,
+      42643,
+      37477
+    ],
+    "isOfficial": false,
+    "url": "https://skills.sh/mattpocock/skills/diagnosing-bugs",
+    "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow."
+  },
+  {
+    "rank": 30,
+    "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "name": "vercel-react-best-practices",
+    "source": "vercel-labs/agent-skills",
+    "installs": 846767,
+    "weeklyInstalls": [
+      16627,
+      16436,
+      19251,
+      18945,
+      21814,
+      22366,
+      25064,
+      23623
+    ],
+    "isOfficial": true,
+    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js…"
+  }
+]
